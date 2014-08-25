@@ -1,0 +1,18 @@
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Topping.Dto\bin\x86\Debug\TopMachine.Topping.Dto.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Topping.Dto\bin\x86\Debug\TopMachine.Topping.Dto.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Topping.Dto\bin\x86\Debug\TopMachine.Desktop.Global.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Topping.Dto\bin\x86\Debug\NLog.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Topping.Dto\bin\x86\Debug\TopMachine.Desktop.Global.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Topping.Dto\bin\x86\Debug\NLog.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Topping.Dto\obj\x86\Debug\TopMachine.Topping.Dto.csprojResolveAssemblyReference.cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Topping.Dto\obj\x86\Debug\TopMachine.Topping.Dto.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Topping.Dto\obj\x86\Debug\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\bin\x86\Debug\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\bin\x86\Debug\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\bin\x86\Debug\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\bin\x86\Debug\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\bin\x86\Debug\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\bin\x86\Debug\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\obj\x86\Debug\TopMachine.Topping.Dto.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\obj\x86\Debug\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\obj\x86\Debug\TopMachine.Topping.Dto.pdb

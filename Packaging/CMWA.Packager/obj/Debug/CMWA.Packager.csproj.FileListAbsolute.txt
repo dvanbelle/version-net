@@ -1,0 +1,8 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Packager\bin\Debug\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Packager\bin\Debug\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Packager\obj\Debug\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Packager\obj\Debug\CMWA.Packager.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Packaging\CMWA.Packager\bin\Debug\CMWA.Packager.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Packaging\CMWA.Packager\bin\Debug\CMWA.Packager.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Packaging\CMWA.Packager\obj\Debug\CMWA.Packager.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Packaging\CMWA.Packager\obj\Debug\CMWA.Packager.pdb

@@ -1,0 +1,42 @@
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\bin\Release\Topping.Core.Data.dll.config
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\bin\Release\Topping.Core.Data.dll
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\bin\Release\Topping.Core.Data.pdb
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\bin\Release\System.Data.SQLite.dll
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\bin\Release\System.Data.SQLite.Linq.dll
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\bin\Release\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\bin\Release\TopMachine.Topping.Common.dll
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\bin\Release\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\bin\Release\TopMachine.Topping.Dawg.Safe.dll
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\bin\Release\NLog.dll
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\bin\Release\TopMachine.Topping.Common.pdb
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\bin\Release\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\bin\Release\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\bin\Release\TopMachine.Topping.Dawg.Safe.pdb
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\bin\Release\NLog.xml
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\obj\Release\Topping.Core.Data.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\obj\Release\Topping.Core.Data.dll
+D:\Ict7\Sample\topmachine Sharing\TopMachine.Desktop\TopMachine.Core.Data\obj\Release\Topping.Core.Data.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\bin\Release\Topping.Core.Data.dll.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\bin\Release\Topping.Core.Data.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\bin\Release\Topping.Core.Data.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\bin\Release\EntityFramework.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\bin\Release\System.Data.SQLite.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\bin\Release\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\bin\Release\TopMachine.Topping.Common.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\bin\Release\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\bin\Release\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\bin\Release\TopMachine.Topping.Dawg.Safe.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\bin\Release\EntityFramework.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\bin\Release\System.Data.SQLite.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\bin\Release\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\bin\Release\TopMachine.Topping.Common.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\bin\Release\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\bin\Release\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\bin\Release\TopMachine.Topping.Dawg.Safe.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\obj\Release\Topping.Core.Data.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\obj\Release\Topping.Core.Data.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Data\obj\Release\Topping.Core.Data.csprojResolveAssemblyReference.cache

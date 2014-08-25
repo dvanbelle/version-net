@@ -1,0 +1,14 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data\obj\x86\Debug\Topping.Core.Data.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data\bin\x86\Debug\Topping.Core.Data.dll.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data\bin\x86\Debug\Topping.Core.Data.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data\bin\x86\Debug\Topping.Core.Data.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data\bin\x86\Debug\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data\bin\x86\Debug\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data\bin\x86\Debug\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data\bin\x86\Debug\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data\bin\x86\Debug\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data\bin\x86\Debug\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data\bin\x86\Debug\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data\bin\x86\Debug\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data\obj\x86\Debug\Topping.Core.Data.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data\obj\x86\Debug\Topping.Core.Data.pdb

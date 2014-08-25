@@ -1,0 +1,2 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Register\obj\x86\Release\TopMachine.Desktop.Register.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Register\obj\x86\Release\TopMachine.Desktop.Register.csproj.GenerateResource.Cache

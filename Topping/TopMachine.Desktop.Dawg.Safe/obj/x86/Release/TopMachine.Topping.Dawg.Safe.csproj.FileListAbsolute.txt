@@ -1,0 +1,3 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Dawg.Safe\obj\x86\Release\TopMachine.Topping.Dawg.Safe.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Dawg.Safe\obj\x86\Release\TopMachine.Topping.Dawg.Properties.Resources.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Dawg.Safe\obj\x86\Release\TopMachine.Topping.Dawg.Safe.csproj.GenerateResource.Cache

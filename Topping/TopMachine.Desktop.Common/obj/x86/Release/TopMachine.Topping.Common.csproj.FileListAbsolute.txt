@@ -1,0 +1,3 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\obj\x86\Release\TopMachine.Topping.Common.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\obj\x86\Release\TopMachine.Topping.Common.Properties.Resources.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\obj\x86\Release\TopMachine.Topping.Common.csproj.GenerateResource.Cache

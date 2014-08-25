@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DicoFRModelStoreContainer" CdmEntityContainer="DicoFREntities">
+    <EntitySetMapping Name="Dicoes">
+      <EntityTypeMapping TypeName="DicoFRModel.Dico">
+        <MappingFragment StoreEntitySet="Dico">
+          <ScalarProperty Name="Hidden" ColumnName="Hidden" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Key" ColumnName="Key" />
+          <ScalarProperty Name="Mot" ColumnName="Mot" />
+          <ScalarProperty Name="Genre" ColumnName="Genre" />
+          <ScalarProperty Name="Definition" ColumnName="Definition" />
+          <ScalarProperty Name="Autres" ColumnName="Autres" />
+          <ScalarProperty Name="IDLien" ColumnName="IDLien" />
+          <ScalarProperty Name="Lien" ColumnName="Lien" />
+          <ScalarProperty Name="isInvariable" ColumnName="isInvariable" />
+          <ScalarProperty Name="Conjugaison" ColumnName="Conjugaison" />
+          <ScalarProperty Name="Conjugaison2" ColumnName="Conjugaison2" />
+          <ScalarProperty Name="isListe" ColumnName="isListe" />
+          <ScalarProperty Name="isAccord" ColumnName="isAccord" />
+          <ScalarProperty Name="Regle" ColumnName="Regle" />
+          <ScalarProperty Name="isExported" ColumnName="isExported" />
+          <ScalarProperty Name="isODS5" ColumnName="isODS5" />
+          <ScalarProperty Name="DefinitionCrypted" ColumnName="DefinitionCrypted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Mots">
+      <EntityTypeMapping TypeName="DicoFRModel.Mot">
+        <MappingFragment StoreEntitySet="Mots">
+          <ScalarProperty Name="MotID" ColumnName="MotID" />
+          <ScalarProperty Name="DicoId" ColumnName="DicoId" />
+          <ScalarProperty Name="Mot1" ColumnName="Mot" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="FK_Mots_0" TypeName="DicoFRModel.FK_Mots_0" StoreEntitySet="Mots">
+      <EndProperty Name="Dico">
+        <ScalarProperty Name="ID" ColumnName="MotID" />
+      </EndProperty>
+      <EndProperty Name="Mots">
+        <ScalarProperty Name="MotID" ColumnName="MotID" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

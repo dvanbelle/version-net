@@ -1,0 +1,44 @@
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\NLog.config
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\TopMachine.Web.GameViewer.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\TopMachine.Web.GameViewer.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\NLog.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\NLog.Extended.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\TopMachine.Desktop.Global.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\TopMachine.Topping.Dto.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\TopMachine.Web.GameViewer.BLL.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\TopMachine.Desktop.Global.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\TopMachine.Topping.Dto.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\TopMachine.Web.GameViewer.BLL.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\NLog.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\NLog.Extended.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\obj\Release\TopMachine.Web.GameViewer.csprojResolveAssemblyReference.cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\obj\Release\TopMachine.Web.GameViewer.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\obj\Release\TopMachine.Web.GameViewer.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\NLog.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\TopMachine.Web.GameViewer.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\TopMachine.Web.GameViewer.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\NLog.Extended.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\TopMachine.Web.GameViewer.BLL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\TopMachine.Web.GameViewer.BLL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\bin\NLog.Extended.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\obj\Release\TopMachine.Web.GameViewer.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\obj\Release\TopMachine.Web.GameViewer.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer\obj\Release\TopMachine.Web.GameViewer.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer.Solution\TopMachine.Web.GameViewer\bin\NLog.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer.Solution\TopMachine.Web.GameViewer\bin\TopMachine.Web.GameViewer.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer.Solution\TopMachine.Web.GameViewer\bin\TopMachine.Web.GameViewer.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer.Solution\TopMachine.Web.GameViewer\bin\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer.Solution\TopMachine.Web.GameViewer\bin\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer.Solution\TopMachine.Web.GameViewer\bin\TopMachine.Web.GameViewer.BLL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer.Solution\TopMachine.Web.GameViewer\bin\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer.Solution\TopMachine.Web.GameViewer\bin\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer.Solution\TopMachine.Web.GameViewer\bin\TopMachine.Web.GameViewer.BLL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer.Solution\TopMachine.Web.GameViewer\obj\Release\TopMachine.Web.GameViewer.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer.Solution\TopMachine.Web.GameViewer\obj\Release\TopMachine.Web.GameViewer.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Web.GameViewer.Solution\TopMachine.Web.GameViewer\obj\Release\TopMachine.Web.GameViewer.pdb

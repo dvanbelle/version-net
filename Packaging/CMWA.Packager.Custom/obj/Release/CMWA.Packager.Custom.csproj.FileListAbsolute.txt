@@ -1,0 +1,42 @@
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\CMWA.Packager.Custom\bin\Release\CMWA.Packager.Custom.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\CMWA.Packager.Custom\bin\Release\CMWA.Packager.Custom.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\CMWA.Packager.Custom\bin\Release\CMWA.Packager.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\CMWA.Packager.Custom\bin\Release\CMWA.Packager.Tools.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\CMWA.Packager.Custom\bin\Release\CMWA.Packager.Tools.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\CMWA.Packager.Custom\bin\Release\CMWA.Packager.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.csprojResolveAssemblyReference.cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.ShortCutEditor.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.ApplicationNavigationEditor.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.PackagerForm.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.Properties.Resources.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.csproj.GenerateResource.Cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\CMWA.Packager.Custom\bin\Release\CMWA.Packager.Custom.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\CMWA.Packager.Custom\bin\Release\CMWA.Packager.Custom.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\CMWA.Packager.Custom\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\CMWA.Packager.Custom\bin\Release\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\CMWA.Packager.Custom\bin\Release\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\CMWA.Packager.Custom\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.ShortCutEditor.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.ApplicationNavigationEditor.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.PackagerForm.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.Properties.Resources.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\bin\Release\CMWA.Packager.Custom.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\bin\Release\CMWA.Packager.Custom.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\bin\Release\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\bin\Release\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.ShortCutEditor.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.ApplicationNavigationEditor.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.PackagerForm.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.Properties.Resources.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\obj\Release\CMWA.Packager.Custom.pdb

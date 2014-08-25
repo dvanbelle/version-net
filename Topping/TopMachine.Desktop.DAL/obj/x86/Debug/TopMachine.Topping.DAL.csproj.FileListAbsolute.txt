@@ -1,0 +1,9 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.DAL\obj\x86\Debug\TopMachine.Topping.DAL.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.DAL\bin\x86\Debug\TopMachine.Topping.DAL.dll.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.DAL\bin\x86\Debug\TopMachine.Topping.DAL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.DAL\bin\x86\Debug\TopMachine.Topping.DAL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.DAL\bin\x86\Debug\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.DAL\bin\x86\Debug\Lucene.Net.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.DAL\bin\x86\Debug\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.DAL\obj\x86\Debug\TopMachine.Topping.DAL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.DAL\obj\x86\Debug\TopMachine.Topping.DAL.pdb

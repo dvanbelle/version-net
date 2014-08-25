@@ -1,0 +1,9 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\x86\Release\TopMachine.Training.FrontEnd.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\x86\Release\TopMachine.Training.FrontEnd.ImportForm.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\x86\Release\TopMachine.Training.FrontEnd.RegExExamples.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\x86\Release\TopMachine.Training.FrontEnd.TrainingConfig.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\x86\Release\TopMachine.Training.FrontEnd.TrainingGame.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\x86\Release\TopMachine.Training.Frontend.TrainingSelection.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\x86\Release\TopMachine.Training.FrontEnd.TrainingForm.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\x86\Release\TopMachine.Training.FrontEnd.Controls.WordPlayer.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\x86\Release\TopMachine.Training.FrontEnd.csproj.GenerateResource.Cache

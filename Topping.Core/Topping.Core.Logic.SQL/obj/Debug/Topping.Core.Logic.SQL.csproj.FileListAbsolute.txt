@@ -1,0 +1,15 @@
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Debug\Topping.Core.Logic.SQL.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Debug\Topping.Core.Logic.SQL.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Debug\TopMachine.Desktop.Global.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Debug\TopMachine.Topping.Dto.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Debug\Topping.Core.Data.SQL.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Debug\Topping.Core.Logic.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Debug\CMWA.Packager.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Debug\TopMachine.Desktop.Global.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Debug\TopMachine.Topping.Dto.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Debug\Topping.Core.Data.SQL.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Debug\Topping.Core.Logic.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Debug\CMWA.Packager.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\obj\Debug\Topping.Core.Logic.SQL.csprojResolveAssemblyReference.cache
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\obj\Debug\Topping.Core.Logic.SQL.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\obj\Debug\Topping.Core.Logic.SQL.pdb

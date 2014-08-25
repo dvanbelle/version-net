@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="llequehot6793com6306_topmachineModelStoreContainer" CdmEntityContainer="ToppingGamesEntities">
+    <EntitySetMapping Name="GameCollectors">
+      <EntityTypeMapping TypeName="llequehot6793com6306_topmachineModel.GameCollector">
+        <MappingFragment StoreEntitySet="GameCollectors">
+          <ScalarProperty Name="LastUpdate" ColumnName="LastUpdate" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GameConfigs">
+      <EntityTypeMapping TypeName="llequehot6793com6306_topmachineModel.GameConfig">
+        <MappingFragment StoreEntitySet="GameConfigs">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Xml" ColumnName="Xml" />
+          <ScalarProperty Name="OriginalId" ColumnName="OriginalId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GameDetails">
+      <EntityTypeMapping TypeName="llequehot6793com6306_topmachineModel.GameDetail">
+        <MappingFragment StoreEntitySet="GameDetails">
+          <ScalarProperty Name="GameId" ColumnName="GameId" />
+          <ScalarProperty Name="Pseudo" ColumnName="Pseudo" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="Solos" ColumnName="Solos" />
+          <ScalarProperty Name="Warnings" ColumnName="Warnings" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+          <ScalarProperty Name="Percentage" ColumnName="Percentage" />
+          <ScalarProperty Name="TopLost" ColumnName="TopLost" />
+          <ScalarProperty Name="Top" ColumnName="Top" />
+          <ScalarProperty Name="Negative" ColumnName="Negative" />
+          <ScalarProperty Name="Selection" ColumnName="Selection" />
+          <ScalarProperty Name="Rating" ColumnName="Rating" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="RoundsXml" ColumnName="RoundsXml" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GameRankings">
+      <EntityTypeMapping TypeName="llequehot6793com6306_topmachineModel.GameRanking">
+        <MappingFragment StoreEntitySet="GameRankings">
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="Month" ColumnName="Month" />
+          <ScalarProperty Name="ConfigGameId" ColumnName="ConfigGameId" />
+          <ScalarProperty Name="Pseudo" ColumnName="Pseudo" />
+          <ScalarProperty Name="Percentage" ColumnName="Percentage" />
+          <ScalarProperty Name="NbParties" ColumnName="NbParties" />
+          <ScalarProperty Name="LostTops" ColumnName="LostTops" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+          <ScalarProperty Name="TotalTops" ColumnName="TotalTops" />
+          <ScalarProperty Name="Position" ColumnName="Position" />
+          <ScalarProperty Name="PlayerTop" ColumnName="PlayerTop" />
+          <ScalarProperty Name="GameTop" ColumnName="GameTop" />
+          <ScalarProperty Name="Selection" ColumnName="Selection" />
+          <ScalarProperty Name="BestTime" ColumnName="BestTime" />
+          <ScalarProperty Name="BestScore" ColumnName="BestScore" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Games">
+      <EntityTypeMapping TypeName="llequehot6793com6306_topmachineModel.Game">
+        <MappingFragment StoreEntitySet="Games">
+          <ScalarProperty Name="SetId" ColumnName="SetId" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="GameXml" ColumnName="GameXml" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GameSets">
+      <EntityTypeMapping TypeName="llequehot6793com6306_topmachineModel.GameSet">
+        <MappingFragment StoreEntitySet="GameSets">
+          <ScalarProperty Name="LastUpdate" ColumnName="LastUpdate" />
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+          <ScalarProperty Name="Annee" ColumnName="Annee" />
+          <ScalarProperty Name="Mois" ColumnName="Mois" />
+          <ScalarProperty Name="Jour" ColumnName="Jour" />
+          <ScalarProperty Name="GameCollectorId" ColumnName="GameCollectorId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GameTypes">
+      <EntityTypeMapping TypeName="llequehot6793com6306_topmachineModel.GameType">
+        <MappingFragment StoreEntitySet="GameTypes">
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GameShorts">
+      <EntityTypeMapping TypeName="llequehot6793com6306_topmachineModel.GameShort">
+        <MappingFragment StoreEntitySet="GameShort">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="SetId" ColumnName="SetId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,2 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data.Factory\obj\Debug\Topping.Core.Data.Factory.csprojResolveAssemblyReference.cache
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data.Factory\obj\Debug\Topping.Core.Data.Factory.csprojResolveAssemblyReference.cache

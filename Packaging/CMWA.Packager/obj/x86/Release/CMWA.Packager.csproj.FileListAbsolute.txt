@@ -1,0 +1,4 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager\bin\x86\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager\bin\x86\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager\obj\x86\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager\obj\x86\Release\CMWA.Packager.pdb

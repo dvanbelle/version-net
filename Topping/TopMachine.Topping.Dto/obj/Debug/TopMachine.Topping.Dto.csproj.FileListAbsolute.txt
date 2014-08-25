@@ -1,0 +1,16 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Topping.Dto\bin\Debug\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Topping.Dto\bin\Debug\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Topping.Dto\bin\Debug\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Topping.Dto\bin\Debug\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Topping.Dto\bin\Debug\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Topping.Dto\bin\Debug\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Topping.Dto\obj\Debug\TopMachine.Topping.Dto.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Topping.Dto\obj\Debug\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Topping.Dto\obj\Debug\TopMachine.Topping.Dto.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\bin\Debug\TopMachine.Topping.Dto.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\bin\Debug\TopMachine.Topping.Dto.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\bin\Debug\TopMachine.Desktop.Global.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\bin\Debug\TopMachine.Desktop.Global.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\obj\Debug\TopMachine.Topping.Dto.csprojResolveAssemblyReference.cache
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\obj\Debug\TopMachine.Topping.Dto.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\obj\Debug\TopMachine.Topping.Dto.pdb

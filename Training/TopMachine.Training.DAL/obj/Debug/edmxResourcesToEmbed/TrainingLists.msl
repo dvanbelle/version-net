@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TrainingEmptyModelStoreContainer" CdmEntityContainer="TrainingEntities">
+    <EntitySetMapping Name="Configs">
+      <EntityTypeMapping TypeName="TrainingModel.Config">
+        <MappingFragment StoreEntitySet="Config">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="XMLConfig" ColumnName="XMLConfig" />
+          <ScalarProperty Name="XMLPlay" ColumnName="XMLPlay" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sessions">
+      <EntityTypeMapping TypeName="TrainingModel.Session">
+        <MappingFragment StoreEntitySet="Sessions">
+          <ScalarProperty Name="DateTime" ColumnName="DateTime" />
+          <ScalarProperty Name="RoundsFound" ColumnName="RoundsFound" />
+          <ScalarProperty Name="RoundsTotal" ColumnName="RoundsTotal" />
+          <ScalarProperty Name="WordsFound" ColumnName="WordsFound" />
+          <ScalarProperty Name="WordsTotal" ColumnName="WordsTotal" />
+          <ScalarProperty Name="TotalTime" ColumnName="TotalTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Words">
+      <EntityTypeMapping TypeName="TrainingModel.Word">
+        <MappingFragment StoreEntitySet="Words">
+          <ScalarProperty Name="Rack" ColumnName="Rack" />
+          <ScalarProperty Name="Lost" ColumnName="Lost" />
+          <ScalarProperty Name="Succeeded" ColumnName="Succeeded" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="WordsXML" ColumnName="WordsXML" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

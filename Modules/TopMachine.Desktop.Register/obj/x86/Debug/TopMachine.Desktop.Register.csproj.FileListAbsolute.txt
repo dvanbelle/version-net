@@ -1,0 +1,13 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Register\obj\x86\Debug\TopMachine.Desktop.Register.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Register\obj\x86\Debug\TopMachine.Desktop.Register.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Register\bin\x86\Debug\TopMachine.Desktop.Register.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Register\bin\x86\Debug\TopMachine.Desktop.Register.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Register\bin\x86\Debug\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Register\bin\x86\Debug\TopMachine.Desktop.Controls.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Register\bin\x86\Debug\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Register\bin\x86\Debug\TopMachine.Desktop.Controls.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Register\bin\x86\Debug\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Register\bin\x86\Debug\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Register\obj\x86\Debug\TopMachine.Desktop.Register.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Register\obj\x86\Debug\TopMachine.Desktop.Register.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Register\obj\x86\Debug\TopMachine.Desktop.Register.csprojResolveAssemblyReference.cache

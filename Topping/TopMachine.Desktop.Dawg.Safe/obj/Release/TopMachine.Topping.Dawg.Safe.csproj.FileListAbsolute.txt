@@ -1,0 +1,40 @@
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\bin\Release\TopMachine.Topping.Dawg.Safe.dll.config
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\bin\Release\TopMachine.Topping.Dawg.Safe.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\bin\Release\TopMachine.Topping.Dawg.Safe.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\bin\Release\CMWA.Packager.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\bin\Release\CMWA.Packager.Tools.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\bin\Release\NLog.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\bin\Release\CMWA.Packager.Tools.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\bin\Release\CMWA.Packager.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\bin\Release\NLog.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\obj\Release\TopMachine.Topping.Dawg.Safe.csprojResolveAssemblyReference.cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\obj\Release\TopMachine.Topping.Dawg.Properties.Resources.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\obj\Release\TopMachine.Topping.Dawg.Safe.csproj.GenerateResource.Cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\obj\Release\TopMachine.Topping.Dawg.Safe.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\obj\Release\TopMachine.Topping.Dawg.Safe.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\bin\Release\TopMachine.Topping.Dawg.Safe.dll.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\bin\Release\TopMachine.Topping.Dawg.Safe.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\bin\Release\TopMachine.Topping.Dawg.Safe.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\bin\Release\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\bin\Release\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\bin\Release\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\bin\Release\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\obj\Release\TopMachine.Topping.Dawg.Safe.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\obj\Release\TopMachine.Topping.Dawg.Properties.Resources.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\obj\Release\TopMachine.Topping.Dawg.Safe.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\obj\Release\TopMachine.Topping.Dawg.Safe.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Dawg.Safe\obj\Release\TopMachine.Topping.Dawg.Safe.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Dawg.Safe\bin\Release\TopMachine.Topping.Dawg.Safe.dll.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Dawg.Safe\bin\Release\TopMachine.Topping.Dawg.Safe.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Dawg.Safe\bin\Release\TopMachine.Topping.Dawg.Safe.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Dawg.Safe\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Dawg.Safe\bin\Release\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Dawg.Safe\bin\Release\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Dawg.Safe\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Dawg.Safe\obj\Release\TopMachine.Topping.Dawg.Safe.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Dawg.Safe\obj\Release\TopMachine.Topping.Dawg.Properties.Resources.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Dawg.Safe\obj\Release\TopMachine.Topping.Dawg.Safe.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Dawg.Safe\obj\Release\TopMachine.Topping.Dawg.Safe.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Dawg.Safe\obj\Release\TopMachine.Topping.Dawg.Safe.pdb

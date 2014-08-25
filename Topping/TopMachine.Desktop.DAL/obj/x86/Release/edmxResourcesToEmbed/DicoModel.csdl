@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DicoFRModel" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="DicoFREntities">
+    <EntitySet Name="Dicoes" EntityType="DicoFRModel.Dico" />
+    <EntitySet Name="Mots" EntityType="DicoFRModel.Mot" />
+    <AssociationSet Name="FK_Mots_0" Association="DicoFRModel.FK_Mots_0">
+      <End Role="Dico" EntitySet="Dicoes" />
+      <End Role="Mots" EntitySet="Mots" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Dico">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int64" Nullable="false" />
+    <Property Name="Key" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Mot" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Genre" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Definition" Type="String" MaxLength="2147483647" Unicode="true" FixedLength="false" />
+    <Property Name="Autres" Type="String" MaxLength="2147483647" Unicode="true" FixedLength="false" />
+    <Property Name="IDLien" Type="Int64" />
+    <Property Name="Lien" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="isInvariable" Type="Boolean" Nullable="false" />
+    <Property Name="Conjugaison" Type="Int64" />
+    <Property Name="Conjugaison2" Type="Int64" />
+    <Property Name="isListe" Type="Boolean" Nullable="false" />
+    <Property Name="isAccord" Type="Boolean" Nullable="false" />
+    <Property Name="Regle" Type="Int64" />
+    <Property Name="isExported" Type="Boolean" Nullable="false" />
+    <Property Name="isODS5" Type="Boolean" Nullable="false" />
+    <Property Name="DefinitionCrypted" Type="Binary" MaxLength="2147483647" FixedLength="false" />
+    <NavigationProperty Name="Mot1" Relationship="DicoFRModel.FK_Mots_0" FromRole="Dico" ToRole="Mots" />
+    <Property Type="Boolean" Name="Hidden" />
+  </EntityType>
+  <EntityType Name="Mot">
+    <Key>
+      <PropertyRef Name="MotID" />
+    </Key>
+    <Property Name="MotID" Type="Int64" Nullable="false" />
+    <Property Name="DicoId" Type="Int64" />
+    <Property Name="Mot1" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Type" Type="Int64" />
+    <NavigationProperty Name="Dico" Relationship="DicoFRModel.FK_Mots_0" FromRole="Mots" ToRole="Dico" />
+  </EntityType>
+  <Association Name="FK_Mots_0">
+    <End Role="Dico" Type="DicoFRModel.Dico" Multiplicity="1" />
+    <End Role="Mots" Type="DicoFRModel.Mot" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Dico">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Mots">
+        <PropertyRef Name="MotID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

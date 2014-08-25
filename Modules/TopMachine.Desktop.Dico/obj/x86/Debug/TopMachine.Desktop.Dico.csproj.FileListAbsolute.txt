@@ -1,0 +1,17 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Dico\obj\x86\Debug\TopMachine.Desktop.Dico.Def.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Dico\obj\x86\Debug\TopMachine.Desktop.Dico.DicoReader.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Dico\obj\x86\Debug\TopMachine.Desktop.Dico.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Dico\obj\x86\Debug\TopMachine.Desktop.Dico.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Dico\bin\x86\Debug\TopMachine.Desktop.Dico.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Dico\bin\x86\Debug\TopMachine.Desktop.Dico.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Dico\bin\x86\Debug\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Dico\bin\x86\Debug\TopMachine.Desktop.Controls.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Dico\bin\x86\Debug\TopMachine.Topping.DAL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Dico\bin\x86\Debug\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Dico\bin\x86\Debug\Lucene.Net.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Dico\bin\x86\Debug\TopMachine.Desktop.Controls.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Dico\bin\x86\Debug\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Dico\bin\x86\Debug\TopMachine.Topping.DAL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Dico\bin\x86\Debug\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Dico\obj\x86\Debug\TopMachine.Desktop.Dico.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.Dico\obj\x86\Debug\TopMachine.Desktop.Dico.pdb
