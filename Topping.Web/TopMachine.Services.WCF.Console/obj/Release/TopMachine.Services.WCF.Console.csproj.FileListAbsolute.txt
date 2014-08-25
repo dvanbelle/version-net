@@ -1,0 +1,112 @@
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\App_Data\Topping.db
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Logs\empty.txt
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\GamesXML\empty.txt
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\NLog.config
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Services.WCF.Console.exe.config
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Services.WCF.Console.exe
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Services.WCF.Console.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Services.WCF.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Data.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Logic.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Topping.Dto.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\CMWA.Packager.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Desktop.Global.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\NLog.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Data.db4o.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\topmachine.system.security.db4o.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Db4objects.Db4o.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Db4objects.Db4o.Linq.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Db4objects.Db4o.CS.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Mono.Reflection.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Data.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Logic.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Services.WCF.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Topping.Dto.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\CMWA.Packager.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Desktop.Global.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\NLog.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Data.db4o.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\topmachine.system.security.db4o.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Db4objects.Db4o.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Db4objects.Db4o.Linq.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Db4objects.Db4o.CS.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\obj\Release\TopMachine.Services.WCF.Console.csprojResolveAssemblyReference.cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\obj\Release\TopMachine.Services.WCF.Console.exe
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\obj\Release\TopMachine.Services.WCF.Console.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\App_Data\Topping.db
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Logs\empty.txt
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\TopMachine.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\GamesXML\empty.txt
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\NLog.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Services.WCF.Console.exe.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Services.WCF.Console.exe
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Services.WCF.Console.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Services.WCF.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Data.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Logic.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Data.SQL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\topmachine.system.security.db4o.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Data.db4o.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Db4objects.Db4o.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Db4objects.Db4o.CS.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Db4objects.Db4o.Linq.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Mono.Reflection.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Data.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Logic.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Services.WCF.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Data.SQL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\topmachine.system.security.db4o.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Data.db4o.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Db4objects.Db4o.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Db4objects.Db4o.CS.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\bin\Release\Db4objects.Db4o.Linq.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\obj\Release\TopMachine.Services.WCF.Console.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\obj\Release\TopMachine.Services.WCF.Console.exe
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Services.WCF.Console\obj\Release\TopMachine.Services.WCF.Console.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\TopMachine.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\App_Data\Topping.db
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\Logs\empty.txt
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\GamesXML\empty.txt
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\NLog.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Services.WCF.Console.exe.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Services.WCF.Console.exe
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Services.WCF.Console.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Services.WCF.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Data.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Logic.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Logic.Interface.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\topmachine.system.security.db4o.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Logic.DB4o.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Data.db4o.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\Db4objects.Db4o.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\Db4objects.Db4o.CS.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\Db4objects.Db4o.Linq.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Data.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Logic.Interface.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Logic.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Services.WCF.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\topmachine.system.security.db4o.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Logic.DB4o.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\Topping.Core.Data.db4o.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\Db4objects.Db4o.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\Db4objects.Db4o.CS.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\bin\Release\Db4objects.Db4o.Linq.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\obj\Release\TopMachine.Services.WCF.Console.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\obj\Release\TopMachine.Services.WCF.Console.exe
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.WCF.Console\obj\Release\TopMachine.Services.WCF.Console.pdb

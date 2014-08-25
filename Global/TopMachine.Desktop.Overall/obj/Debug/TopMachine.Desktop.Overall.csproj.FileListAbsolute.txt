@@ -1,0 +1,10 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Global\bin\Debug\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Global\bin\Debug\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Global\bin\Debug\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Global\bin\Debug\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Global\obj\Debug\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Global\obj\Debug\TopMachine.Desktop.Global.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Overall\bin\Debug\TopMachine.Desktop.Global.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Overall\bin\Debug\TopMachine.Desktop.Global.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Overall\obj\Debug\TopMachine.Desktop.Global.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Overall\obj\Debug\TopMachine.Desktop.Global.pdb

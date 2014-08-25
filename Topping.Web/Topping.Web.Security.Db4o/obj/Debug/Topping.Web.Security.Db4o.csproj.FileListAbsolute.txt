@@ -1,0 +1,13 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web.Security.Db4o\bin\Debug\topmachine.system.security.db4o.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web.Security.Db4o\bin\Debug\topmachine.system.security.db4o.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web.Security.Db4o\bin\Debug\Db4objects.Db4o.CS.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web.Security.Db4o\bin\Debug\Db4objects.Db4o.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web.Security.Db4o\bin\Debug\Db4objects.Db4o.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web.Security.Db4o\bin\Debug\Db4objects.Db4o.CS.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web.Security.Db4o\obj\Debug\topmachine.system.security.db4o.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web.Security.Db4o\obj\Debug\topmachine.system.security.db4o.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Web\Topping.Web.Security.Db4o\bin\Debug\topmachine.system.security.db4o.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Web\Topping.Web.Security.Db4o\bin\Debug\topmachine.system.security.db4o.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Web\Topping.Web.Security.Db4o\obj\Debug\topmachine.system.security.db4o.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Web\Topping.Web.Security.Db4o\obj\Debug\topmachine.system.security.db4o.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Web\Topping.Web.Security.Db4o\obj\Debug\Topping.Web.Security.Db4o.csprojResolveAssemblyReference.cache

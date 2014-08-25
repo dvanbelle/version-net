@@ -1,0 +1,45 @@
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\TopMachine.Desktop.Controls.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\TopMachine.Desktop.Controls.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\CMWA.Packager.Custom.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\CMWA.Packager.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\NLog.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\CMWA.Packager.Tools.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\CMWA.Packager.Custom.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\CMWA.Packager.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\NLog.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\CMWA.Packager.Tools.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\obj\Release\TopMachine.Desktop.Controls.csprojResolveAssemblyReference.cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\obj\Release\TopMachine.Desktop.Controls.Tools.Progress.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\obj\Release\TopMachine.Desktop.Controls.csproj.GenerateResource.Cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\obj\Release\TopMachine.Desktop.Controls.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\obj\Release\TopMachine.Desktop.Controls.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\TopMachine.Desktop.Controls.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\TopMachine.Desktop.Controls.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\CMWA.Packager.Custom.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\CMWA.Packager.Custom.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\bin\Release\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\obj\Release\TopMachine.Desktop.Controls.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\obj\Release\TopMachine.Desktop.Controls.Tools.Progress.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\obj\Release\TopMachine.Desktop.Controls.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\obj\Release\TopMachine.Desktop.Controls.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Controls\obj\Release\TopMachine.Desktop.Controls.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Controls\bin\Release\TopMachine.Desktop.Controls.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Controls\bin\Release\TopMachine.Desktop.Controls.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Controls\bin\Release\CMWA.Packager.Custom.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Controls\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Controls\bin\Release\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Controls\bin\Release\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Controls\bin\Release\CMWA.Packager.Custom.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Controls\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Controls\bin\Release\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Controls\bin\Release\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Controls\obj\Release\TopMachine.Desktop.Controls.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Controls\obj\Release\TopMachine.Desktop.Controls.Tools.Progress.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Controls\obj\Release\TopMachine.Desktop.Controls.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Controls\obj\Release\TopMachine.Desktop.Controls.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Controls\obj\Release\TopMachine.Desktop.Controls.pdb

@@ -1,0 +1,14 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web.Security\bin\Debug\Topping.Web.Security.dll.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web.Security\bin\Debug\Topping.Web.Security.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web.Security\bin\Debug\Topping.Web.Security.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web.Security\bin\Debug\System.Data.SQLite.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web.Security\bin\Debug\System.Data.SQLite.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web.Security\obj\Debug\Topping.Web.Security.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web.Security\obj\Debug\Topping.Web.Security.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Web\Topping.Web.Security\bin\Debug\Topping.Web.Security.dll.config
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Web\Topping.Web.Security\bin\Debug\Topping.Web.Security.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Web\Topping.Web.Security\bin\Debug\Topping.Web.Security.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Web\Topping.Web.Security\bin\Debug\System.Data.SQLite.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Web\Topping.Web.Security\obj\Debug\Topping.Web.Security.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Web\Topping.Web.Security\obj\Debug\Topping.Web.Security.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Web\Topping.Web.Security\obj\Debug\Topping.Web.Security.csprojResolveAssemblyReference.cache

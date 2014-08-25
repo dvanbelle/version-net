@@ -1,0 +1,12 @@
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Global\bin\x86\Debug\TopMachine.Desktop.Global.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Global\bin\x86\Debug\TopMachine.Desktop.Global.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Global\bin\x86\Debug\NLog.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Global\bin\x86\Debug\NLog.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Global\obj\x86\Debug\TopMachine.Desktop.Global.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Global\obj\x86\Debug\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Overall\bin\x86\Debug\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Overall\bin\x86\Debug\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Overall\bin\x86\Debug\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Overall\bin\x86\Debug\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Overall\obj\x86\Debug\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Overall\obj\x86\Debug\TopMachine.Desktop.Global.pdb
