@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TopMachineDBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="TopMachineDBModelStoreContainer">
+    <EntitySet Name="aspnet_Users" EntityType="TopMachineDBModel.Store.aspnet_Users" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="GameConfigs" EntityType="TopMachineDBModel.Store.GameConfigs" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="GameRankings" EntityType="TopMachineDBModel.Store.GameRankings" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Games" EntityType="TopMachineDBModel.Store.Games" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="GamesDetail" EntityType="TopMachineDBModel.Store.GamesDetail" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK__GamesDeta__GameC__756D6ECB" Association="TopMachineDBModel.Store.FK__GamesDeta__GameC__756D6ECB">
+      <End Role="GameConfigs" EntitySet="GameConfigs" />
+      <End Role="GamesDetail" EntitySet="GamesDetail" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="aspnet_Users">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="ApplicationId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="UserId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" Nullable="false" MaxLength="256" />
+    <Property Name="LoweredUserName" Type="nvarchar" Nullable="false" MaxLength="256" />
+    <Property Name="MobileAlias" Type="nvarchar" MaxLength="16" />
+    <Property Name="IsAnonymous" Type="bit" Nullable="false" />
+    <Property Name="LastActivityDate" Type="datetime" Nullable="false" />
+    <Property Name="FirstName" Type="varchar" MaxLength="256" />
+    <Property Name="LastName" Type="varchar" MaxLength="256" />
+    <Property Name="Email" Type="varchar" MaxLength="256" />
+  </EntityType>
+  <EntityType Name="GameConfigs">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="XmlConfig" Type="ntext" />
+  </EntityType>
+  <EntityType Name="GameRankings">
+    <Key>
+      <PropertyRef Name="Year" />
+      <PropertyRef Name="Month" />
+      <PropertyRef Name="ConfigGameId" />
+      <PropertyRef Name="Playerid" />
+    </Key>
+    <Property Name="Year" Type="int" Nullable="false" />
+    <Property Name="Month" Type="int" Nullable="false" />
+    <Property Name="ConfigGameId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Playerid" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Percentage" Type="float" Nullable="false" />
+    <Property Name="NbParties" Type="int" Nullable="false" />
+    <Property Name="LostTops" Type="float" Nullable="false" />
+    <Property Name="Time" Type="int" Nullable="false" />
+    <Property Name="TotalTops" Type="int" Nullable="false" />
+    <Property Name="Position" Type="int" Nullable="false" />
+    <Property Name="Serie" Type="int" Nullable="false" />
+    <Property Name="PlayerTop" Type="int" Nullable="false" />
+    <Property Name="GameTop" Type="int" Nullable="false" />
+    <Property Name="Selection" Type="int" Nullable="false" />
+    <Property Name="BestTime" Type="int" Nullable="false" />
+    <Property Name="BestScore" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Games">
+    <Key>
+      <PropertyRef Name="GameId" />
+    </Key>
+    <Property Name="GameId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="GameConfigId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Date" Type="datetime" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="GameXml" Type="ntext" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="GamesDetail">
+    <Key>
+      <PropertyRef Name="GameId" />
+    </Key>
+    <Property Name="GameId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="UserId" Type="uniqueidentifier" />
+    <Property Name="DetailXml" Type="ntext" />
+    <Property Name="Total" Type="int" />
+    <Property Name="Solos" Type="int" />
+    <Property Name="Warnings" Type="int" />
+    <Property Name="Time" Type="int" />
+    <Property Name="Percentage" Type="float" />
+    <Property Name="TopLost" Type="int" />
+    <Property Name="Top" Type="int" />
+    <Property Name="Negative" Type="int" />
+    <Property Name="Selection" Type="int" />
+    <Property Name="Rating" Type="int" />
+    <Property Name="Status" Type="int" />
+    <Property Name="Date" Type="datetime" Nullable="false" />
+    <Property Name="GameConfigId" Type="uniqueidentifier" />
+  </EntityType>
+  <Association Name="FK__GamesDeta__GameC__756D6ECB">
+    <End Role="GameConfigs" Type="TopMachineDBModel.Store.GameConfigs" Multiplicity="0..1" />
+    <End Role="GamesDetail" Type="TopMachineDBModel.Store.GamesDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GameConfigs">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="GamesDetail">
+        <PropertyRef Name="GameConfigId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

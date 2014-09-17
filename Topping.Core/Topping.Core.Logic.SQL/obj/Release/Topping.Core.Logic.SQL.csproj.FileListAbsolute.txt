@@ -1,0 +1,15 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Release\Topping.Core.Logic.SQL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Release\Topping.Core.Logic.SQL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Release\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Release\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Release\Topping.Core.Data.SQL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Release\Topping.Core.Logic.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Release\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Release\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Release\Topping.Core.Data.SQL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Release\Topping.Core.Logic.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\obj\Release\Topping.Core.Logic.SQL.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\obj\Release\Topping.Core.Logic.SQL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic.SQL\obj\Release\Topping.Core.Logic.SQL.pdb

@@ -1,0 +1,2 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\obj\x86\Release\TopMachine.Desktop.Search.WordSearch.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\obj\x86\Release\TopMachine.Desktop.WordSearch.csproj.GenerateResource.Cache

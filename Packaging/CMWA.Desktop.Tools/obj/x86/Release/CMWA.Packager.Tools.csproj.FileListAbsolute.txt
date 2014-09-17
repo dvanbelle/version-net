@@ -1,0 +1,7 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Desktop.Tools\bin\x86\Release\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Desktop.Tools\bin\x86\Release\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Desktop.Tools\bin\x86\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Desktop.Tools\bin\x86\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Desktop.Tools\obj\x86\Release\CMWA.Packager.Tools.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Desktop.Tools\obj\x86\Release\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Desktop.Tools\obj\x86\Release\CMWA.Packager.Tools.pdb

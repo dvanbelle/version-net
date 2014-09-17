@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="TopMachine.Web.WCF.Services.DeleteServices" CodeBehind="DeleteServices.svc.cs" %>

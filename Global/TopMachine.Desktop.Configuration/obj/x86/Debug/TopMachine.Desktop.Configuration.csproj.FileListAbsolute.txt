@@ -1,0 +1,12 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\bin\x86\Debug\TopMachine.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\bin\x86\Debug\TopMachine.Desktop.Configuration.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\bin\x86\Debug\TopMachine.Desktop.Configuration.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\bin\x86\Debug\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\bin\x86\Debug\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\bin\x86\Debug\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\bin\x86\Debug\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\obj\x86\Debug\TopMachine.Desktop.Configuration.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\obj\x86\Debug\TopMachine.Desktop.Configuration.ConfigEditor.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\obj\x86\Debug\TopMachine.Desktop.Configuration.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\obj\x86\Debug\TopMachine.Desktop.Configuration.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\obj\x86\Debug\TopMachine.Desktop.Configuration.pdb

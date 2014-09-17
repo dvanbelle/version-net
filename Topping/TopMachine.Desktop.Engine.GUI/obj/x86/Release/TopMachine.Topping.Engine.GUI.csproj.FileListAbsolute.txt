@@ -1,0 +1,13 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Engine.GUI\obj\x86\Release\TopMachine.Topping.Engine.GUI.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Engine.GUI\obj\x86\Release\TopMachine.Topping.Engine.GUI.Board.Board.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Engine.GUI\obj\x86\Release\TopMachine.Topping.Engine.GUI.Board.CArrow.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Engine.GUI\obj\x86\Release\TopMachine.Topping.Engine.GUI.Board.Chevalet.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Engine.GUI\obj\x86\Release\TopMachine.Topping.Engine.GUI.Board.ChevaletManuel.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Engine.GUI\obj\x86\Release\TopMachine.Topping.Engine.GUI.Board.Classement.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Engine.GUI\obj\x86\Release\TopMachine.Topping.Engine.GUI.Board.PlayedGameRoundControl.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Engine.GUI\obj\x86\Release\TopMachine.Topping.Engine.GUI.Board.History.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Engine.GUI\obj\x86\Release\TopMachine.Topping.Engine.GUI.Board.LettresRestantes.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Engine.GUI\obj\x86\Release\TopMachine.Topping.Engine.GUI.Board.RoundControl.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Engine.GUI\obj\x86\Release\TopMachine.Topping.Engine.GUI.Properties.Resources.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Engine.GUI\obj\x86\Release\TopMachine.Engine.Local.GameController.SolutionChooser.SolutionChooserSelect.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Engine.GUI\obj\x86\Release\TopMachine.Topping.Engine.GUI.csproj.GenerateResource.Cache

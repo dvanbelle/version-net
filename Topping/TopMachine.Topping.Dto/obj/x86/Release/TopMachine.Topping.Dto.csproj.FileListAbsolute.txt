@@ -1,0 +1,9 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\bin\x86\Release\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\bin\x86\Release\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\bin\x86\Release\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\bin\x86\Release\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\bin\x86\Release\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\bin\x86\Release\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\obj\x86\Release\TopMachine.Topping.Dto.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\obj\x86\Release\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Topping.Dto\obj\x86\Release\TopMachine.Topping.Dto.pdb

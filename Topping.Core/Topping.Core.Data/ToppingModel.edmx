@@ -1,0 +1,571 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="ToppingModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="ISO8601" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="ToppingModelStoreContainer">
+          <EntitySet Name="GameConfigs" EntityType="ToppingModel.Store.GameConfigs" store:Type="Tables" />
+          <EntitySet Name="GameRankings" EntityType="ToppingModel.Store.GameRankings" store:Type="Tables" />
+          <EntitySet Name="Games" EntityType="ToppingModel.Store.Games" store:Type="Tables" />
+          <EntitySet Name="GamesDetail" EntityType="ToppingModel.Store.GamesDetail" store:Type="Tables" />
+          <EntitySet Name="users" EntityType="ToppingModel.Store.users" store:Type="Tables" />
+          <EntitySet Name="ViewGetGameDetails" EntityType="ToppingModel.Store.ViewGetGameDetails" store:Type="Views" store:Name="ViewGetGameDetails">
+            <DefiningQuery>SELECT 
+      [ViewGetGameDetails].[Username] AS [Username], 
+      [ViewGetGameDetails].[GameId] AS [GameId], 
+      [ViewGetGameDetails].[UserId] AS [UserId], 
+      [ViewGetGameDetails].[Total] AS [Total], 
+      [ViewGetGameDetails].[Solos] AS [Solos], 
+      [ViewGetGameDetails].[Warnings] AS [Warnings], 
+      [ViewGetGameDetails].[Time] AS [Time], 
+      [ViewGetGameDetails].[Percentage] AS [Percentage], 
+      [ViewGetGameDetails].[TopLost] AS [TopLost], 
+      [ViewGetGameDetails].[Top] AS [Top], 
+      [ViewGetGameDetails].[Negative] AS [Negative], 
+      [ViewGetGameDetails].[Selection] AS [Selection], 
+      [ViewGetGameDetails].[Rating] AS [Rating], 
+      [ViewGetGameDetails].[Status] AS [Status], 
+      [ViewGetGameDetails].[Date] AS [Date], 
+      [ViewGetGameDetails].[GameConfigId] AS [GameConfigId]
+      FROM [ViewGetGameDetails] AS [ViewGetGameDetails]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="ViewGetRankings" EntityType="ToppingModel.Store.ViewGetRankings" store:Type="Views" store:Name="ViewGetRankings">
+            <DefiningQuery>SELECT 
+      [ViewGetRankings].[Username] AS [Username], 
+      [ViewGetRankings].[Year] AS [Year], 
+      [ViewGetRankings].[Month] AS [Month], 
+      [ViewGetRankings].[ConfigGameId] AS [ConfigGameId], 
+      [ViewGetRankings].[Playerid] AS [Playerid], 
+      [ViewGetRankings].[Percentage] AS [Percentage], 
+      [ViewGetRankings].[NbParties] AS [NbParties], 
+      [ViewGetRankings].[LostTops] AS [LostTops], 
+      [ViewGetRankings].[Time] AS [Time], 
+      [ViewGetRankings].[TotalTops] AS [TotalTops], 
+      [ViewGetRankings].[Position] AS [Position], 
+      [ViewGetRankings].[Serie] AS [Serie], 
+      [ViewGetRankings].[PlayerTop] AS [PlayerTop], 
+      [ViewGetRankings].[GameTop] AS [GameTop], 
+      [ViewGetRankings].[Selection] AS [Selection], 
+      [ViewGetRankings].[BestTime] AS [BestTime], 
+      [ViewGetRankings].[BestScore] AS [BestScore]
+      FROM [ViewGetRankings] AS [ViewGetRankings]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="ViewUserIdAndName" EntityType="ToppingModel.Store.ViewUserIdAndName" store:Type="Views" store:Name="ViewUserIdAndName">
+            <DefiningQuery>SELECT 
+      [ViewUserIdAndName].[PKID] AS [PKID], 
+      [ViewUserIdAndName].[Username] AS [Username]
+      FROM [ViewUserIdAndName] AS [ViewUserIdAndName]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+        <EntityType Name="GameConfigs">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="XmlConfig" Type="nvarchar" />
+        </EntityType>
+        <EntityType Name="GameRankings">
+          <Key>
+            <PropertyRef Name="Year" />
+            <PropertyRef Name="Month" />
+            <PropertyRef Name="ConfigGameId" />
+            <PropertyRef Name="Playerid" />
+          </Key>
+          <Property Name="Year" Type="int" Nullable="false" />
+          <Property Name="Month" Type="int" Nullable="false" />
+          <Property Name="ConfigGameId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="Playerid" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="Percentage" Type="float" Nullable="false" />
+          <Property Name="NbParties" Type="int" Nullable="false" />
+          <Property Name="LostTops" Type="float" Nullable="false" />
+          <Property Name="Time" Type="int" Nullable="false" />
+          <Property Name="TotalTops" Type="int" Nullable="false" />
+          <Property Name="Position" Type="int" Nullable="false" />
+          <Property Name="Serie" Type="int" Nullable="false" />
+          <Property Name="PlayerTop" Type="int" Nullable="false" />
+          <Property Name="GameTop" Type="int" Nullable="false" />
+          <Property Name="Selection" Type="int" Nullable="false" />
+          <Property Name="BestTime" Type="int" Nullable="false" />
+          <Property Name="BestScore" Type="float" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Games">
+          <Key>
+            <PropertyRef Name="GameId" />
+          </Key>
+          <Property Name="GameId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="GameConfigId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="Date" Type="datetime" Nullable="false" />
+          <Property Name="Status" Type="integer" Nullable="false" />
+          <Property Name="GameXml" Type="nvarchar" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="250" />
+        </EntityType>
+        <EntityType Name="GamesDetail">
+          <Key>
+            <PropertyRef Name="GameId" />
+            <PropertyRef Name="UserId" />
+          </Key>
+          <Property Name="GameId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="UserId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="DetailXml" Type="nvarchar" />
+          <Property Name="Total" Type="integer" />
+          <Property Name="Solos" Type="integer" />
+          <Property Name="Warnings" Type="integer" />
+          <Property Name="Time" Type="integer" />
+          <Property Name="Percentage" Type="float" />
+          <Property Name="TopLost" Type="integer" />
+          <Property Name="Top" Type="integer" />
+          <Property Name="Negative" Type="integer" />
+          <Property Name="Selection" Type="integer" />
+          <Property Name="Rating" Type="integer" />
+          <Property Name="Status" Type="integer" />
+          <Property Name="Date" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="users">
+          <Key>
+            <PropertyRef Name="PKID" />
+          </Key>
+          <Property Name="PKID" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="Username" Type="nvarchar" Nullable="false" MaxLength="255" />
+          <Property Name="ApplicationName" Type="nvarchar" MaxLength="100" />
+          <Property Name="Email" Type="nvarchar" MaxLength="100" />
+          <Property Name="Comment" Type="nvarchar" MaxLength="255" />
+          <Property Name="Password" Type="nvarchar" MaxLength="128" />
+          <Property Name="PasswordQuestion" Type="nvarchar" MaxLength="255" />
+          <Property Name="PasswordAnswer" Type="nvarchar" MaxLength="255" />
+          <Property Name="IsApproved" Type="tinyint" />
+          <Property Name="LastActivityDate" Type="datetime" />
+          <Property Name="LastLoginDate" Type="datetime" />
+          <Property Name="LastPasswordChangedDate" Type="datetime" />
+          <Property Name="CreationDate" Type="datetime" />
+          <Property Name="IsOnLine" Type="tinyint" />
+          <Property Name="IsLockedOut" Type="tinyint" />
+          <Property Name="LastLockedOutDate" Type="datetime" />
+          <Property Name="FailedPasswordAttemptCount" Type="int" />
+          <Property Name="FailedPasswordAttemptWindowStart" Type="datetime" />
+          <Property Name="FailedPasswordAnswerAttemptCount" Type="int" />
+          <Property Name="FailedPasswordAnswerAttemptWindowStart" Type="datetime" />
+        </EntityType>
+        <!--Errors Found During Generation:
+      warning 6002: The table/view 'main.ViewGetGameDetails' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+        <EntityType Name="ViewGetGameDetails">
+          <Key>
+            <PropertyRef Name="Username" />
+            <PropertyRef Name="GameId" />
+            <PropertyRef Name="UserId" />
+            <PropertyRef Name="Date" />
+            <PropertyRef Name="GameConfigId" />
+          </Key>
+          <Property Name="Username" Type="nvarchar" Nullable="false" MaxLength="255" />
+          <Property Name="GameId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="UserId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="Total" Type="integer" />
+          <Property Name="Solos" Type="integer" />
+          <Property Name="Warnings" Type="integer" />
+          <Property Name="Time" Type="integer" />
+          <Property Name="Percentage" Type="float" />
+          <Property Name="TopLost" Type="integer" />
+          <Property Name="Top" Type="integer" />
+          <Property Name="Negative" Type="integer" />
+          <Property Name="Selection" Type="integer" />
+          <Property Name="Rating" Type="integer" />
+          <Property Name="Status" Type="integer" />
+          <Property Name="Date" Type="datetime" Nullable="false" />
+          <Property Name="GameConfigId" Type="uniqueidentifier" Nullable="false" />
+        </EntityType>
+        <!--Errors Found During Generation:
+      warning 6002: The table/view 'main.ViewGetRankings' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+        <EntityType Name="ViewGetRankings">
+          <Key>
+            <PropertyRef Name="Username" />
+            <PropertyRef Name="Year" />
+            <PropertyRef Name="Month" />
+            <PropertyRef Name="ConfigGameId" />
+            <PropertyRef Name="Playerid" />
+            <PropertyRef Name="Percentage" />
+            <PropertyRef Name="NbParties" />
+            <PropertyRef Name="LostTops" />
+            <PropertyRef Name="Time" />
+            <PropertyRef Name="TotalTops" />
+            <PropertyRef Name="Position" />
+            <PropertyRef Name="Serie" />
+            <PropertyRef Name="PlayerTop" />
+            <PropertyRef Name="GameTop" />
+            <PropertyRef Name="Selection" />
+            <PropertyRef Name="BestTime" />
+            <PropertyRef Name="BestScore" />
+          </Key>
+          <Property Name="Username" Type="nvarchar" Nullable="false" MaxLength="255" />
+          <Property Name="Year" Type="int" Nullable="false" />
+          <Property Name="Month" Type="int" Nullable="false" />
+          <Property Name="ConfigGameId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="Playerid" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="Percentage" Type="float" Nullable="false" />
+          <Property Name="NbParties" Type="int" Nullable="false" />
+          <Property Name="LostTops" Type="float" Nullable="false" />
+          <Property Name="Time" Type="int" Nullable="false" />
+          <Property Name="TotalTops" Type="int" Nullable="false" />
+          <Property Name="Position" Type="int" Nullable="false" />
+          <Property Name="Serie" Type="int" Nullable="false" />
+          <Property Name="PlayerTop" Type="int" Nullable="false" />
+          <Property Name="GameTop" Type="int" Nullable="false" />
+          <Property Name="Selection" Type="int" Nullable="false" />
+          <Property Name="BestTime" Type="int" Nullable="false" />
+          <Property Name="BestScore" Type="float" Nullable="false" />
+        </EntityType>
+        <!--Errors Found During Generation:
+      warning 6002: The table/view 'main.ViewUserIdAndName' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+        <EntityType Name="ViewUserIdAndName">
+          <Key>
+            <PropertyRef Name="PKID" />
+            <PropertyRef Name="Username" />
+          </Key>
+          <Property Name="PKID" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="Username" Type="nvarchar" Nullable="false" MaxLength="255" />
+        </EntityType>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ToppingModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="ToppingEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="GameConfigs" EntityType="ToppingModel.GameConfig" />
+          <EntitySet Name="GameRankings" EntityType="ToppingModel.GameRanking" />
+          <EntitySet Name="Games" EntityType="ToppingModel.Game" />
+          <EntitySet Name="users" EntityType="ToppingModel.user" />
+          <EntitySet Name="ViewUserIdAndNames" EntityType="ToppingModel.ViewUserIdAndName" />
+          <EntitySet Name="GamesDetails" EntityType="ToppingModel.GamesDetail" />
+          <EntitySet Name="ViewGetRankings" EntityType="ToppingModel.ViewGetRanking" />
+          <EntitySet Name="ViewGetGameDetails" EntityType="ToppingModel.ViewGetGameDetail" />
+        </EntityContainer>
+        <EntityType Name="GameConfig">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Guid" Nullable="false" />
+          <Property Name="XmlConfig" Type="String" MaxLength="2147483647" Unicode="true" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="GameRanking">
+          <Key>
+            <PropertyRef Name="Year" />
+            <PropertyRef Name="Month" />
+            <PropertyRef Name="ConfigGameId" />
+            <PropertyRef Name="Playerid" />
+          </Key>
+          <Property Name="Year" Type="Int32" Nullable="false" />
+          <Property Name="Month" Type="Int32" Nullable="false" />
+          <Property Name="ConfigGameId" Type="Guid" Nullable="false" />
+          <Property Name="Playerid" Type="Guid" Nullable="false" />
+          <Property Name="Percentage" Type="Double" Nullable="false" />
+          <Property Name="NbParties" Type="Int32" Nullable="false" />
+          <Property Name="LostTops" Type="Double" Nullable="false" />
+          <Property Name="Time" Type="Int32" Nullable="false" />
+          <Property Name="TotalTops" Type="Int32" Nullable="false" />
+          <Property Name="Position" Type="Int32" Nullable="false" />
+          <Property Name="Serie" Type="Int32" Nullable="false" />
+          <Property Name="PlayerTop" Type="Int32" Nullable="false" />
+          <Property Name="GameTop" Type="Int32" Nullable="false" />
+          <Property Name="Selection" Type="Int32" Nullable="false" />
+          <Property Name="BestTime" Type="Int32" Nullable="false" />
+          <Property Name="BestScore" Type="Double" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Game">
+          <Key>
+            <PropertyRef Name="GameId" />
+          </Key>
+          <Property Name="GameId" Type="Guid" Nullable="false" />
+          <Property Name="GameConfigId" Type="Guid" Nullable="false" />
+          <Property Name="Date" Type="DateTime" Nullable="false" />
+          <Property Name="Status" Type="Int64" Nullable="false" />
+          <Property Name="GameXml" Type="String" Nullable="false" MaxLength="2147483647" Unicode="true" FixedLength="false" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="250" Unicode="true" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="user">
+          <Key>
+            <PropertyRef Name="PKID" />
+          </Key>
+          <Property Type="Guid" Name="PKID" Nullable="false" />
+          <Property Type="String" Name="Username" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="ApplicationName" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="Email" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="Comment" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="Password" MaxLength="128" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="PasswordQuestion" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="PasswordAnswer" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Type="Byte" Name="IsApproved" />
+          <Property Type="DateTime" Name="LastActivityDate" />
+          <Property Type="DateTime" Name="LastLoginDate" />
+          <Property Type="DateTime" Name="LastPasswordChangedDate" />
+          <Property Type="DateTime" Name="CreationDate" />
+          <Property Type="Byte" Name="IsOnLine" />
+          <Property Type="Byte" Name="IsLockedOut" />
+          <Property Type="DateTime" Name="LastLockedOutDate" />
+          <Property Type="Int32" Name="FailedPasswordAttemptCount" />
+          <Property Type="DateTime" Name="FailedPasswordAttemptWindowStart" />
+          <Property Type="Int32" Name="FailedPasswordAnswerAttemptCount" />
+          <Property Type="DateTime" Name="FailedPasswordAnswerAttemptWindowStart" />
+        </EntityType>
+        <EntityType Name="ViewUserIdAndName">
+          <Key>
+            <PropertyRef Name="PKID" />
+            <PropertyRef Name="Username" />
+          </Key>
+          <Property Type="Guid" Name="PKID" Nullable="false" />
+          <Property Type="String" Name="Username" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="GamesDetail">
+          <Key>
+            <PropertyRef Name="GameId" />
+            <PropertyRef Name="UserId" />
+          </Key>
+          <Property Type="Guid" Name="GameId" Nullable="false" />
+          <Property Type="Guid" Name="UserId" Nullable="false" />
+          <Property Type="String" Name="DetailXml" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+          <Property Type="Int64" Name="Total" />
+          <Property Type="Int64" Name="Solos" />
+          <Property Type="Int64" Name="Warnings" />
+          <Property Type="Int64" Name="Time" />
+          <Property Type="Double" Name="Percentage" />
+          <Property Type="Int64" Name="TopLost" />
+          <Property Type="Int64" Name="Top" />
+          <Property Type="Int64" Name="Negative" />
+          <Property Type="Int64" Name="Selection" />
+          <Property Type="Int64" Name="Rating" />
+          <Property Type="Int64" Name="Status" />
+          <Property Type="DateTime" Name="Date" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ViewGetRanking">
+          <Key>
+            <PropertyRef Name="Username" />
+            <PropertyRef Name="Year" />
+            <PropertyRef Name="Month" />
+            <PropertyRef Name="ConfigGameId" />
+            <PropertyRef Name="Playerid" />
+            <PropertyRef Name="Percentage" />
+            <PropertyRef Name="NbParties" />
+            <PropertyRef Name="LostTops" />
+            <PropertyRef Name="Time" />
+            <PropertyRef Name="TotalTops" />
+            <PropertyRef Name="Position" />
+            <PropertyRef Name="Serie" />
+            <PropertyRef Name="PlayerTop" />
+            <PropertyRef Name="GameTop" />
+            <PropertyRef Name="Selection" />
+            <PropertyRef Name="BestTime" />
+            <PropertyRef Name="BestScore" />
+          </Key>
+          <Property Type="String" Name="Username" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Type="Int32" Name="Year" Nullable="false" />
+          <Property Type="Int32" Name="Month" Nullable="false" />
+          <Property Type="Guid" Name="ConfigGameId" Nullable="false" />
+          <Property Type="Guid" Name="Playerid" Nullable="false" />
+          <Property Type="Double" Name="Percentage" Nullable="false" />
+          <Property Type="Int32" Name="NbParties" Nullable="false" />
+          <Property Type="Double" Name="LostTops" Nullable="false" />
+          <Property Type="Int32" Name="Time" Nullable="false" />
+          <Property Type="Int32" Name="TotalTops" Nullable="false" />
+          <Property Type="Int32" Name="Position" Nullable="false" />
+          <Property Type="Int32" Name="Serie" Nullable="false" />
+          <Property Type="Int32" Name="PlayerTop" Nullable="false" />
+          <Property Type="Int32" Name="GameTop" Nullable="false" />
+          <Property Type="Int32" Name="Selection" Nullable="false" />
+          <Property Type="Int32" Name="BestTime" Nullable="false" />
+          <Property Type="Double" Name="BestScore" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ViewGetGameDetail">
+          <Key>
+            <PropertyRef Name="Username" />
+            <PropertyRef Name="GameId" />
+            <PropertyRef Name="UserId" />
+            <PropertyRef Name="Date" />
+            <PropertyRef Name="GameConfigId" />
+          </Key>
+          <Property Type="String" Name="Username" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Type="Guid" Name="GameId" Nullable="false" />
+          <Property Type="Guid" Name="UserId" Nullable="false" />
+          <Property Type="Int64" Name="Total" />
+          <Property Type="Int64" Name="Solos" />
+          <Property Type="Int64" Name="Warnings" />
+          <Property Type="Int64" Name="Time" />
+          <Property Type="Double" Name="Percentage" />
+          <Property Type="Int64" Name="TopLost" />
+          <Property Type="Int64" Name="Top" />
+          <Property Type="Int64" Name="Negative" />
+          <Property Type="Int64" Name="Selection" />
+          <Property Type="Int64" Name="Rating" />
+          <Property Type="Int64" Name="Status" />
+          <Property Type="DateTime" Name="Date" Nullable="false" />
+          <Property Type="Guid" Name="GameConfigId" Nullable="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="ToppingModelStoreContainer" CdmEntityContainer="ToppingEntities">
+          <EntitySetMapping Name="GameConfigs"><EntityTypeMapping TypeName="ToppingModel.GameConfig"><MappingFragment StoreEntitySet="GameConfigs">
+            <ScalarProperty Name="Id" ColumnName="Id" />
+            <ScalarProperty Name="XmlConfig" ColumnName="XmlConfig" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="GameRankings"><EntityTypeMapping TypeName="ToppingModel.GameRanking"><MappingFragment StoreEntitySet="GameRankings">
+            <ScalarProperty Name="Year" ColumnName="Year" />
+            <ScalarProperty Name="Month" ColumnName="Month" />
+            <ScalarProperty Name="ConfigGameId" ColumnName="ConfigGameId" />
+            <ScalarProperty Name="Playerid" ColumnName="Playerid" />
+            <ScalarProperty Name="Percentage" ColumnName="Percentage" />
+            <ScalarProperty Name="NbParties" ColumnName="NbParties" />
+            <ScalarProperty Name="LostTops" ColumnName="LostTops" />
+            <ScalarProperty Name="Time" ColumnName="Time" />
+            <ScalarProperty Name="TotalTops" ColumnName="TotalTops" />
+            <ScalarProperty Name="Position" ColumnName="Position" />
+            <ScalarProperty Name="Serie" ColumnName="Serie" />
+            <ScalarProperty Name="PlayerTop" ColumnName="PlayerTop" />
+            <ScalarProperty Name="GameTop" ColumnName="GameTop" />
+            <ScalarProperty Name="Selection" ColumnName="Selection" />
+            <ScalarProperty Name="BestTime" ColumnName="BestTime" />
+            <ScalarProperty Name="BestScore" ColumnName="BestScore" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="Games"><EntityTypeMapping TypeName="ToppingModel.Game"><MappingFragment StoreEntitySet="Games">
+            <ScalarProperty Name="GameId" ColumnName="GameId" />
+            <ScalarProperty Name="GameConfigId" ColumnName="GameConfigId" />
+            <ScalarProperty Name="Date" ColumnName="Date" />
+            <ScalarProperty Name="Status" ColumnName="Status" />
+            <ScalarProperty Name="GameXml" ColumnName="GameXml" />
+            <ScalarProperty Name="Name" ColumnName="Name" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="users">
+            <EntityTypeMapping TypeName="ToppingModel.user">
+              <MappingFragment StoreEntitySet="users">
+                <ScalarProperty Name="FailedPasswordAnswerAttemptWindowStart" ColumnName="FailedPasswordAnswerAttemptWindowStart" />
+                <ScalarProperty Name="FailedPasswordAnswerAttemptCount" ColumnName="FailedPasswordAnswerAttemptCount" />
+                <ScalarProperty Name="FailedPasswordAttemptWindowStart" ColumnName="FailedPasswordAttemptWindowStart" />
+                <ScalarProperty Name="FailedPasswordAttemptCount" ColumnName="FailedPasswordAttemptCount" />
+                <ScalarProperty Name="LastLockedOutDate" ColumnName="LastLockedOutDate" />
+                <ScalarProperty Name="IsLockedOut" ColumnName="IsLockedOut" />
+                <ScalarProperty Name="IsOnLine" ColumnName="IsOnLine" />
+                <ScalarProperty Name="CreationDate" ColumnName="CreationDate" />
+                <ScalarProperty Name="LastPasswordChangedDate" ColumnName="LastPasswordChangedDate" />
+                <ScalarProperty Name="LastLoginDate" ColumnName="LastLoginDate" />
+                <ScalarProperty Name="LastActivityDate" ColumnName="LastActivityDate" />
+                <ScalarProperty Name="IsApproved" ColumnName="IsApproved" />
+                <ScalarProperty Name="PasswordAnswer" ColumnName="PasswordAnswer" />
+                <ScalarProperty Name="PasswordQuestion" ColumnName="PasswordQuestion" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+                <ScalarProperty Name="Comment" ColumnName="Comment" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="ApplicationName" ColumnName="ApplicationName" />
+                <ScalarProperty Name="Username" ColumnName="Username" />
+                <ScalarProperty Name="PKID" ColumnName="PKID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ViewUserIdAndNames">
+            <EntityTypeMapping TypeName="ToppingModel.ViewUserIdAndName">
+              <MappingFragment StoreEntitySet="ViewUserIdAndName">
+                <ScalarProperty Name="Username" ColumnName="Username" />
+                <ScalarProperty Name="PKID" ColumnName="PKID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="GamesDetails">
+            <EntityTypeMapping TypeName="ToppingModel.GamesDetail">
+              <MappingFragment StoreEntitySet="GamesDetail">
+                <ScalarProperty Name="Date" ColumnName="Date" />
+                <ScalarProperty Name="Status" ColumnName="Status" />
+                <ScalarProperty Name="Rating" ColumnName="Rating" />
+                <ScalarProperty Name="Selection" ColumnName="Selection" />
+                <ScalarProperty Name="Negative" ColumnName="Negative" />
+                <ScalarProperty Name="Top" ColumnName="Top" />
+                <ScalarProperty Name="TopLost" ColumnName="TopLost" />
+                <ScalarProperty Name="Percentage" ColumnName="Percentage" />
+                <ScalarProperty Name="Time" ColumnName="Time" />
+                <ScalarProperty Name="Warnings" ColumnName="Warnings" />
+                <ScalarProperty Name="Solos" ColumnName="Solos" />
+                <ScalarProperty Name="Total" ColumnName="Total" />
+                <ScalarProperty Name="DetailXml" ColumnName="DetailXml" />
+                <ScalarProperty Name="UserId" ColumnName="UserId" />
+                <ScalarProperty Name="GameId" ColumnName="GameId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ViewGetRankings">
+            <EntityTypeMapping TypeName="ToppingModel.ViewGetRanking">
+              <MappingFragment StoreEntitySet="ViewGetRankings">
+                <ScalarProperty Name="BestScore" ColumnName="BestScore" />
+                <ScalarProperty Name="BestTime" ColumnName="BestTime" />
+                <ScalarProperty Name="Selection" ColumnName="Selection" />
+                <ScalarProperty Name="GameTop" ColumnName="GameTop" />
+                <ScalarProperty Name="PlayerTop" ColumnName="PlayerTop" />
+                <ScalarProperty Name="Serie" ColumnName="Serie" />
+                <ScalarProperty Name="Position" ColumnName="Position" />
+                <ScalarProperty Name="TotalTops" ColumnName="TotalTops" />
+                <ScalarProperty Name="Time" ColumnName="Time" />
+                <ScalarProperty Name="LostTops" ColumnName="LostTops" />
+                <ScalarProperty Name="NbParties" ColumnName="NbParties" />
+                <ScalarProperty Name="Percentage" ColumnName="Percentage" />
+                <ScalarProperty Name="Playerid" ColumnName="Playerid" />
+                <ScalarProperty Name="ConfigGameId" ColumnName="ConfigGameId" />
+                <ScalarProperty Name="Month" ColumnName="Month" />
+                <ScalarProperty Name="Year" ColumnName="Year" />
+                <ScalarProperty Name="Username" ColumnName="Username" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ViewGetGameDetails">
+            <EntityTypeMapping TypeName="ToppingModel.ViewGetGameDetail">
+              <MappingFragment StoreEntitySet="ViewGetGameDetails">
+                <ScalarProperty Name="GameConfigId" ColumnName="GameConfigId" />
+                <ScalarProperty Name="Date" ColumnName="Date" />
+                <ScalarProperty Name="Status" ColumnName="Status" />
+                <ScalarProperty Name="Rating" ColumnName="Rating" />
+                <ScalarProperty Name="Selection" ColumnName="Selection" />
+                <ScalarProperty Name="Negative" ColumnName="Negative" />
+                <ScalarProperty Name="Top" ColumnName="Top" />
+                <ScalarProperty Name="TopLost" ColumnName="TopLost" />
+                <ScalarProperty Name="Percentage" ColumnName="Percentage" />
+                <ScalarProperty Name="Time" ColumnName="Time" />
+                <ScalarProperty Name="Warnings" ColumnName="Warnings" />
+                <ScalarProperty Name="Solos" ColumnName="Solos" />
+                <ScalarProperty Name="Total" ColumnName="Total" />
+                <ScalarProperty Name="UserId" ColumnName="UserId" />
+                <ScalarProperty Name="GameId" ColumnName="GameId" />
+                <ScalarProperty Name="Username" ColumnName="Username" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="ToppingModel">
+        <EntityTypeShape EntityType="ToppingModel.GameConfig" Width="1.5" PointX="0.75" PointY="0.75" Height="1.4033821614583331" IsExpanded="true" />
+        <EntityTypeShape EntityType="ToppingModel.GameRanking" Width="1.5" PointX="2.75" PointY="0.75" Height="4.0956022135416656" IsExpanded="true" />
+        <EntityTypeShape EntityType="ToppingModel.Game" Width="1.5" PointX="4.75" PointY="0.75" Height="2.1725878906249996" IsExpanded="true" />
+        <EntityTypeShape EntityType="ToppingModel.user" Width="1.5" PointX="0.75" PointY="5.75" Height="4.8648079427083317" />
+        <EntityTypeShape EntityType="ToppingModel.ViewUserIdAndName" Width="1.5" PointX="7.75" PointY="0.75" Height="1.4033821614583317" />
+        <EntityTypeShape EntityType="ToppingModel.GamesDetail" Width="1.5" PointX="5.375" PointY="3.75" Height="3.9033007812499996" />
+        <EntityTypeShape EntityType="ToppingModel.ViewGetRanking" Width="1.5" PointX="7.375" PointY="3.75" Height="4.2879036458333317" />
+        <EntityTypeShape EntityType="ToppingModel.ViewGetGameDetail" Width="1.5" PointX="3.375" PointY="8.75" Height="4.0956022135416674" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

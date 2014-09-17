@@ -1,0 +1,14 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Utility\bin\Release\CMWA.Packager.Utility.exe.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Utility\bin\Release\CMWA.Packager.Utility.exe
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Utility\bin\Release\CMWA.Packager.Utility.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Utility\bin\Release\CMWA.Packager.Custom.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Utility\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Utility\bin\Release\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Utility\bin\Release\CMWA.Packager.Custom.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Utility\bin\Release\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Utility\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Utility\obj\x86\Release\CMWA.Packager.Utility.ProjectManager.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Utility\obj\x86\Release\CMWA.Packager.Utility.Properties.Resources.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Utility\obj\x86\Release\CMWA.Packager.Utility.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Utility\obj\x86\Release\CMWA.Packager.Utility.exe
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Utility\obj\x86\Release\CMWA.Packager.Utility.pdb

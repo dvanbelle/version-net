@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RoleModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="TopMachine.Services.Wcf.SQL" version="2.0.6493.2" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
+  <Runtime>
+    <EntryPoint>
+      <NetFxEntryPoint assemblyName="TopMachine.Service.WCF.dll" targetFrameworkVersion="v4.0" />
+    </EntryPoint>
+  </Runtime>
+  <Properties>
+    <Property name="TargetFrameworkVersion" value="v4.0" />
+    <Property name="RoleType" value="Web" />
+    <Property name="RoleName" value="TopMachine.Services.Wcf.SQL" />
+    <Property name="ProjectName" value="TopMachine.Services.Wcf.SQL" />
+    <Property name="Configuration" value="Release" />
+    <Property name="Platform" value="AnyCPU" />
+    <Property name="RoleTargetFramework" value="v4.0" />
+    <Property name="OutputDir" value="D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachineAzure\obj\Release\TopMachine.Services.Wcf.SQL\" />
+    <Property name="EntryPoint" value="TopMachine.Service.WCF.dll" />
+    <Property name="SourceDir" value="D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.Wcf.SQL\" />
+    <Property name="SitePhysicalPath" value="D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachineAzure\obj\Release\TopMachine.Services.Wcf.SQL\" />
+    <Property name="TargetRuntimeVersion" value="v4.0" />
+  </Properties>
+  <Sites>
+    <Site name="Web" physicalDirectory="D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachineAzure\obj\Release\TopMachine.Services.Wcf.SQL\">
+      <Bindings>
+        <Binding name="Endpoint1" endpointName="Endpoint1" />
+      </Bindings>
+    </Site>
+  </Sites>
+</RoleModel>

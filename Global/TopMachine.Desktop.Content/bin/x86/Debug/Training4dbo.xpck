@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Key>Training4dbo</Key>
+  <IsTranslation>false</IsTranslation>
+  <Registered>false</Registered>
+  <Crypted>false</Crypted>
+  <Enabled>true</Enabled>
+  <LocationType>PersonalFiles</LocationType>
+  <FileType>File</FileType>
+  <Items>
+    <Package>
+      <Key>Templates</Key>
+      <IsTranslation>false</IsTranslation>
+      <Registered>false</Registered>
+      <Crypted>false</Crypted>
+      <Enabled>true</Enabled>
+      <Filename>Templates</Filename>
+      <LocationType>PersonalFiles</LocationType>
+      <FileType>Folder</FileType>
+      <Items>
+        <Package>
+          <Key>TrainingEmpty</Key>
+          <IsTranslation>false</IsTranslation>
+          <Registered>false</Registered>
+          <Crypted>false</Crypted>
+          <Enabled>true</Enabled>
+          <Filename>TrainingEmpty.db</Filename>
+          <LocationType>PersonalFiles</LocationType>
+          <FileType>File</FileType>
+          <Items />
+          <OriginalFile>Templates\TrainingEmpty.db</OriginalFile>
+          <Version>1.0.0</Version>
+          <VersionDate>2010-12-26T23:37:03.9934858+01:00</VersionDate>
+          <Attributes />
+        </Package>
+      </Items>
+      <Version>1.0.0</Version>
+      <VersionDate>2010-12-26T23:36:03.0580005+01:00</VersionDate>
+      <Attributes />
+    </Package>
+    <Package>
+      <Key>Lists</Key>
+      <IsTranslation>false</IsTranslation>
+      <Registered>false</Registered>
+      <Crypted>false</Crypted>
+      <Enabled>true</Enabled>
+      <Filename>Lists</Filename>
+      <LocationType>PersonalFiles</LocationType>
+      <FileType>Folder</FileType>
+      <Items>
+        <Package>
+          <Key>ods6 15</Key>
+          <IsTranslation>false</IsTranslation>
+          <Registered>false</Registered>
+          <Crypted>false</Crypted>
+          <Enabled>true</Enabled>
+          <Filename>7a613ab2-adf2-42fb-967e-6d12397aa111.dbo</Filename>
+          <Description>ods6 15</Description>
+          <LocationType>PersonalFiles</LocationType>
+          <FileType>File</FileType>
+          <Items />
+          <Version>1.0.0</Version>
+          <VersionDate>2011-11-04T13:17:39.8629952+01:00</VersionDate>
+          <Attributes />
+        </Package>
+        <Package>
+          <Key>ods6 2-8</Key>
+          <IsTranslation>false</IsTranslation>
+          <Registered>false</Registered>
+          <Crypted>false</Crypted>
+          <Enabled>true</Enabled>
+          <Filename>1bbd8c97-d204-4fc6-97f8-4ef311fa8365.dbo</Filename>
+          <Description>ods6 2-8</Description>
+          <LocationType>PersonalFiles</LocationType>
+          <FileType>File</FileType>
+          <Items />
+          <Version>1.0.0</Version>
+          <VersionDate>2011-11-04T16:21:00.8442153+01:00</VersionDate>
+          <Attributes />
+        </Package>
+        <Package>
+          <Key>ods6-9</Key>
+          <IsTranslation>false</IsTranslation>
+          <Registered>false</Registered>
+          <Crypted>false</Crypted>
+          <Enabled>true</Enabled>
+          <Filename>37ab8c1e-949f-43b1-b121-2fa976c01227.dbo</Filename>
+          <Description>ods6-9</Description>
+          <LocationType>PersonalFiles</LocationType>
+          <FileType>File</FileType>
+          <Items />
+          <Version>1.0.0</Version>
+          <VersionDate>2011-11-08T12:32:47.6313517+01:00</VersionDate>
+          <Attributes />
+        </Package>
+        <Package>
+          <Key>ods10-15</Key>
+          <IsTranslation>false</IsTranslation>
+          <Registered>false</Registered>
+          <Crypted>false</Crypted>
+          <Enabled>true</Enabled>
+          <Filename>65941308-be30-4f21-ac2d-1c617ae422da.dbo</Filename>
+          <Description>ods10-15</Description>
+          <LocationType>PersonalFiles</LocationType>
+          <FileType>File</FileType>
+          <Items />
+          <Version>1.0.0</Version>
+          <VersionDate>2011-11-21T13:35:11.9284658+01:00</VersionDate>
+          <Attributes />
+        </Package>
+        <Package>
+          <Key>etude</Key>
+          <IsTranslation>false</IsTranslation>
+          <Registered>false</Registered>
+          <Crypted>false</Crypted>
+          <Enabled>true</Enabled>
+          <Filename>1715f991-caeb-4379-9b25-af7f5b382833.dbo</Filename>
+          <Description>etude</Description>
+          <LocationType>PersonalFiles</LocationType>
+          <FileType>File</FileType>
+          <Items />
+          <Version>1.0.0</Version>
+          <VersionDate>2011-11-27T14:01:13.6456398+01:00</VersionDate>
+          <Attributes />
+        </Package>
+        <Package>
+          <Key>ods6 7-9</Key>
+          <IsTranslation>false</IsTranslation>
+          <Registered>false</Registered>
+          <Crypted>false</Crypted>
+          <Enabled>true</Enabled>
+          <Filename>b035bf53-f922-4f27-9d41-3e216b7cf69b.dbo</Filename>
+          <Description>ods6 7-9</Description>
+          <LocationType>PersonalFiles</LocationType>
+          <FileType>File</FileType>
+          <Items />
+          <Version>1.0.0</Version>
+          <VersionDate>2011-12-04T14:52:40.4556521+01:00</VersionDate>
+          <Attributes />
+        </Package>
+        <Package>
+          <Key>test</Key>
+          <IsTranslation>false</IsTranslation>
+          <Registered>false</Registered>
+          <Crypted>false</Crypted>
+          <Enabled>true</Enabled>
+          <Filename>31989f60-a4d2-4d8e-a50d-ac2497704ba1.dbo</Filename>
+          <Description>test</Description>
+          <LocationType>PersonalFiles</LocationType>
+          <FileType>File</FileType>
+          <Items />
+          <Version>1.0.0</Version>
+          <VersionDate>2011-12-12T15:16:41.981468+01:00</VersionDate>
+          <Attributes />
+        </Package>
+        <Package>
+          <Key>ods6 7,8 lettres joker</Key>
+          <IsTranslation>false</IsTranslation>
+          <Registered>false</Registered>
+          <Crypted>false</Crypted>
+          <Enabled>true</Enabled>
+          <Filename>7ae59ce7-2758-42ea-bfb7-1beb3f2975b2.dbo</Filename>
+          <Description>ods6 7,8 lettres joker</Description>
+          <LocationType>PersonalFiles</LocationType>
+          <FileType>File</FileType>
+          <Items />
+          <Version>1.0.0</Version>
+          <VersionDate>2011-12-18T17:40:30.7650476+01:00</VersionDate>
+          <Attributes />
+        </Package>
+        <Package>
+          <Key>eler - eter</Key>
+          <IsTranslation>false</IsTranslation>
+          <Registered>false</Registered>
+          <Crypted>false</Crypted>
+          <Enabled>true</Enabled>
+          <Filename>0be698d5-84ec-4bc9-9b2f-d76c13ce6cc2.dbo</Filename>
+          <Description>eler - eter</Description>
+          <LocationType>PersonalFiles</LocationType>
+          <FileType>File</FileType>
+          <Items />
+          <Version>1.0.0</Version>
+          <VersionDate>2012-01-22T15:17:21.4523336+01:00</VersionDate>
+        </Package>
+        <Package>
+          <Key>elera- etera</Key>
+          <IsTranslation>false</IsTranslation>
+          <Registered>false</Registered>
+          <Crypted>false</Crypted>
+          <Enabled>true</Enabled>
+          <Filename>b5fc9ec5-0dd0-445e-9fb6-f564cd49389a.dbo</Filename>
+          <Description>elera- etera</Description>
+          <LocationType>PersonalFiles</LocationType>
+          <FileType>File</FileType>
+          <Items />
+          <Version>1.0.0</Version>
+          <VersionDate>2012-01-22T16:30:33.3745372+01:00</VersionDate>
+        </Package>
+      </Items>
+      <Version>1.0.0</Version>
+      <VersionDate>2010-12-29T18:02:57.3741449+01:00</VersionDate>
+      <Attributes />
+    </Package>
+  </Items>
+  <Version>1.0.0</Version>
+  <VersionDate>2010-12-26T23:35:22.2146644+01:00</VersionDate>
+  <Attributes />
+</Package>

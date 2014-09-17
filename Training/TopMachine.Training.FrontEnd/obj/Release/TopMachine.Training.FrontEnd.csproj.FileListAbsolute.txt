@@ -1,0 +1,127 @@
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Training.FrontEnd.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Training.FrontEnd.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\CMWA.Packager.Custom.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\CMWA.Packager.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Desktop.Controls.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Desktop.Dico.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Desktop.Global.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.Common.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.DAL.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.Dawg.Safe.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Training.DAL.4dbo.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\CMWA.Packager.Tools.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.Dto.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\Lucene.Net.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\NLog.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\Db4objects.Db4o.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\Db4objects.Db4o.Linq.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\Mono.Reflection.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\CMWA.Packager.Custom.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.Common.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Desktop.Controls.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.DAL.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.Dawg.Safe.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Desktop.Dico.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Desktop.Global.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\CMWA.Packager.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Training.DAL.4dbo.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\CMWA.Packager.Tools.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.Dto.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\NLog.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\Db4objects.Db4o.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\Db4objects.Db4o.Linq.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.csprojResolveAssemblyReference.cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.ImportForm.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.RegExExamples.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.TrainingConfig.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.TrainingGame.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.Frontend.TrainingSelection.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.TrainingForm.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.Controls.WordPlayer.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.csproj.GenerateResource.Cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Training.FrontEnd.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Training.FrontEnd.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\CMWA.Packager.Custom.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Desktop.Controls.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Desktop.Dico.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.Common.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.DAL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.Dawg.Safe.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Training.DAL.4dbo.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\Lucene.Net.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\Db4objects.Db4o.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\Db4objects.Db4o.Linq.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\Mono.Reflection.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\CMWA.Packager.Custom.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.Common.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.DAL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.Dawg.Safe.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Desktop.Dico.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Training.DAL.4dbo.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Desktop.Controls.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\Db4objects.Db4o.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\bin\Release\Db4objects.Db4o.Linq.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.ImportForm.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.RegExExamples.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.TrainingConfig.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.TrainingGame.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.Frontend.TrainingSelection.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.TrainingForm.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.Controls.WordPlayer.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Training.FrontEnd.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Training.FrontEnd.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\CMWA.Packager.Custom.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Desktop.Controls.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Desktop.Dico.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.Common.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.DAL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.Dawg.Safe.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Training.DAL.4dbo.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\Lucene.Net.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\Db4objects.Db4o.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\Db4objects.Db4o.Linq.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\Mono.Reflection.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Desktop.Dico.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\CMWA.Packager.Custom.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Desktop.Controls.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.Common.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.DAL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.Dawg.Safe.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Training.DAL.4dbo.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\Db4objects.Db4o.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\bin\Release\Db4objects.Db4o.Linq.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.ImportForm.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.RegExExamples.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.TrainingConfig.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.TrainingGame.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.Frontend.TrainingSelection.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.TrainingForm.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.Controls.WordPlayer.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.FrontEnd\obj\Release\TopMachine.Training.FrontEnd.pdb

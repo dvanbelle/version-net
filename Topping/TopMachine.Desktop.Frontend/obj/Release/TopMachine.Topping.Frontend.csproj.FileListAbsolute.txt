@@ -1,0 +1,200 @@
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Frontend.dll.config
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Frontend.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Frontend.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\CMWA.Packager.Custom.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\CMWA.Packager.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\CMWA.Packager.Tools.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\NLog.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Desktop.Controls.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Desktop.Global.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Common.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Dawg.Safe.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Dto.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Engine.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Engine.GUI.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Logic.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Proxy.Local.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Data.db4o.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Desktop.Configuration.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Db4objects.Db4o.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\topmachine.system.security.db4o.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Db4objects.Db4o.Linq.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Db4objects.Db4o.CS.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Mono.Reflection.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\CMWA.Packager.Custom.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Logic.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Common.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Desktop.Controls.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Dawg.Safe.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Engine.GUI.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Engine.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Desktop.Global.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\CMWA.Packager.Tools.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\CMWA.Packager.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Dto.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Proxy.Local.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\NLog.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Data.db4o.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Desktop.Configuration.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Db4objects.Db4o.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\topmachine.system.security.db4o.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Db4objects.Db4o.Linq.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Db4objects.Db4o.CS.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.csprojResolveAssemblyReference.cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Admin.AdminForm.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Admin.ToppingConfig.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Admin.UserEdit.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Chat.ChatControl.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.ConfigItem.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.FriendsList.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.ListPlayers.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.ShortRoomItem.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.RoomControl.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.RoomItem.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.Login.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Properties.Resources.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.TopMachineContainerWindow.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.ToppingRooms.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.ToppingConfig.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.ToppingConfigs.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.TopMachineContainer.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.TopMachineForm.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.ToppingSelection.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.csproj.GenerateResource.Cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Frontend.dll.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Frontend.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Frontend.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\CMWA.Packager.Custom.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Desktop.Controls.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Common.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Dawg.Safe.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Engine.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Engine.GUI.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Logic.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Proxy.Local.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Data.SQL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Desktop.Configuration.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Data.db4o.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Db4objects.Db4o.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\topmachine.system.security.db4o.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Db4objects.Db4o.Linq.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Db4objects.Db4o.CS.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\CMWA.Packager.Custom.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Common.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Dawg.Safe.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Engine.GUI.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Engine.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Desktop.Controls.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Logic.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Proxy.Local.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Data.SQL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Desktop.Configuration.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Data.db4o.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\bin\Release\topmachine.system.security.db4o.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Admin.AdminForm.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Admin.ToppingConfig.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Admin.UserEdit.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Chat.ChatControl.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.ConfigItem.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.FriendsList.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.ListPlayers.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.ShortRoomItem.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.RoomControl.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.RoomItem.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.Login.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Properties.Resources.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.TopMachineContainerWindow.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.ToppingRooms.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.ToppingConfig.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.ToppingConfigs.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.TopMachineContainer.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.TopMachineForm.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.ToppingSelection.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Frontend.dll.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Frontend.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Frontend.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\CMWA.Packager.Custom.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Desktop.Controls.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Common.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Dawg.Safe.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Engine.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Engine.GUI.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Logic.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Logic.SQL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Proxy.Local.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Data.SQL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Logic.Interface.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Logic.DB4o.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Desktop.Configuration.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Data.db4o.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Db4objects.Db4o.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\topmachine.system.security.db4o.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Db4objects.Db4o.Linq.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Db4objects.Db4o.CS.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\CMWA.Packager.Custom.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Desktop.Controls.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Logic.SQL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Common.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Dawg.Safe.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Engine.GUI.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Engine.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Logic.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Proxy.Local.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Data.SQL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Logic.Interface.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Logic.DB4o.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\TopMachine.Desktop.Configuration.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Topping.Core.Data.db4o.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Db4objects.Db4o.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\topmachine.system.security.db4o.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Db4objects.Db4o.Linq.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\bin\Release\Db4objects.Db4o.CS.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Admin.AdminForm.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Admin.ToppingConfig.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Admin.UserEdit.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Chat.ChatControl.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.ConfigItem.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.FriendsList.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.ListPlayers.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.ShortRoomItem.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.RoomControl.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.RoomItem.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.Login.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Properties.Resources.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.TopMachineContainerWindow.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.ToppingRooms.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.Controls.ToppingConfig.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.ToppingConfigs.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.TopMachineContainer.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.TopMachineForm.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.ToppingSelection.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Frontend\obj\Release\TopMachine.Topping.Frontend.pdb

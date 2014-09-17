@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ValidationIssue Include="TopMachine.Services.Wcf.SQL|Microsoft.Data.Edm.dll|WAT150">
+      <ProjectName>TopMachine.Services.Wcf.SQL</ProjectName>
+      <FilenameWithExtension>Microsoft.Data.Edm.dll</FilenameWithExtension>
+      <Code>WAT150</Code>
+      <FileFullPath>C:\Program Files (x86)\Microsoft WCF Data Services\5.0\bin\.NETFramework\Microsoft.Data.Edm.dll</FileFullPath>
+      <WATMessage>True</WATMessage>
+      <Arguments>TopMachine.Services.Wcf.SQL;C:\Program Files (x86)\Microsoft WCF Data Services\5.0\bin\.NETFramework\Microsoft.Data.Edm.dll</Arguments>
+      <HelpKeyword>WATValidationIssueWarning</HelpKeyword>
+    </ValidationIssue>
+    <ValidationIssue Include="TopMachine.Services.Wcf.SQL|Microsoft.Data.Edm.dll|WAT150">
+      <ProjectName>TopMachine.Services.Wcf.SQL</ProjectName>
+      <FilenameWithExtension>Microsoft.Data.Edm.dll</FilenameWithExtension>
+      <Code>WAT150</Code>
+      <FileFullPath>D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.Wcf.SQL\bin\Microsoft.Data.Edm.dll</FileFullPath>
+      <WATMessage>True</WATMessage>
+      <Arguments>TopMachine.Services.Wcf.SQL;D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.Wcf.SQL\bin\Microsoft.Data.Edm.dll</Arguments>
+      <HelpKeyword>WATValidationIssueWarning</HelpKeyword>
+    </ValidationIssue>
+    <ValidationIssue Include="TopMachine.Services.Wcf.SQL|Microsoft.Data.OData.dll|WAT150">
+      <ProjectName>TopMachine.Services.Wcf.SQL</ProjectName>
+      <FilenameWithExtension>Microsoft.Data.OData.dll</FilenameWithExtension>
+      <Code>WAT150</Code>
+      <FileFullPath>C:\Program Files (x86)\Microsoft WCF Data Services\5.0\bin\.NETFramework\Microsoft.Data.OData.dll</FileFullPath>
+      <WATMessage>True</WATMessage>
+      <Arguments>TopMachine.Services.Wcf.SQL;C:\Program Files (x86)\Microsoft WCF Data Services\5.0\bin\.NETFramework\Microsoft.Data.OData.dll</Arguments>
+      <HelpKeyword>WATValidationIssueWarning</HelpKeyword>
+    </ValidationIssue>
+    <ValidationIssue Include="TopMachine.Services.Wcf.SQL|Microsoft.Data.OData.dll|WAT150">
+      <ProjectName>TopMachine.Services.Wcf.SQL</ProjectName>
+      <FilenameWithExtension>Microsoft.Data.OData.dll</FilenameWithExtension>
+      <Code>WAT150</Code>
+      <FileFullPath>D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.Wcf.SQL\bin\Microsoft.Data.OData.dll</FileFullPath>
+      <WATMessage>True</WATMessage>
+      <Arguments>TopMachine.Services.Wcf.SQL;D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.Wcf.SQL\bin\Microsoft.Data.OData.dll</Arguments>
+      <HelpKeyword>WATValidationIssueWarning</HelpKeyword>
+    </ValidationIssue>
+    <ValidationIssue Include="TopMachine.Services.Wcf.SQL|System.Spatial.dll|WAT150">
+      <ProjectName>TopMachine.Services.Wcf.SQL</ProjectName>
+      <FilenameWithExtension>System.Spatial.dll</FilenameWithExtension>
+      <Code>WAT150</Code>
+      <FileFullPath>C:\Program Files (x86)\Microsoft WCF Data Services\5.0\bin\.NETFramework\System.Spatial.dll</FileFullPath>
+      <WATMessage>True</WATMessage>
+      <Arguments>TopMachine.Services.Wcf.SQL;C:\Program Files (x86)\Microsoft WCF Data Services\5.0\bin\.NETFramework\System.Spatial.dll</Arguments>
+      <HelpKeyword>WATValidationIssueWarning</HelpKeyword>
+    </ValidationIssue>
+    <ValidationIssue Include="TopMachine.Services.Wcf.SQL|System.Spatial.dll|WAT150">
+      <ProjectName>TopMachine.Services.Wcf.SQL</ProjectName>
+      <FilenameWithExtension>System.Spatial.dll</FilenameWithExtension>
+      <Code>WAT150</Code>
+      <FileFullPath>D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.Wcf.SQL\bin\System.Spatial.dll</FileFullPath>
+      <WATMessage>True</WATMessage>
+      <Arguments>TopMachine.Services.Wcf.SQL;D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Web\TopMachine.Services.Wcf.SQL\bin\System.Spatial.dll</Arguments>
+      <HelpKeyword>WATValidationIssueWarning</HelpKeyword>
+    </ValidationIssue>
+  </ItemGroup>
+</Project>

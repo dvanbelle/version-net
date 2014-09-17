@@ -1,0 +1,48 @@
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\Topping.Core.Data.SQL.dll.config
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\Topping.Core.Data.SQL.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\Topping.Core.Data.SQL.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\CMWA.Packager.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\TopMachine.Desktop.Global.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\TopMachine.Topping.Dto.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\NLog.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\TopMachine.Desktop.Global.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\CMWA.Packager.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\TopMachine.Topping.Dto.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\NLog.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\Topping.Core.Data.SQL\obj\Debug\Topping.Core.Data.SQL.csprojResolveAssemblyReference.cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\Topping.Core.Data.SQL\obj\Debug\Topping.Core.Data.SQL.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\Topping.Core.Data.SQL\obj\Debug\Topping.Core.Data.SQL.pdb
+D:\Ict7\Sample\TopMachineAzure\Topping.Core.Data.SQL\obj\Debug\Topping.Core.Data.SQL.dll
+D:\Ict7\Sample\TopMachineAzure\Topping.Core.Data.SQL\obj\Debug\Topping.Core.Data.SQL.pdb
+D:\Ict7\Sample\TopMachineAzure\Topping.Core.Data.SQL\bin\Debug\Topping.Core.Data.SQL.dll.config
+D:\Ict7\Sample\TopMachineAzure\Topping.Core.Data.SQL\bin\Debug\Topping.Core.Data.SQL.dll
+D:\Ict7\Sample\TopMachineAzure\Topping.Core.Data.SQL\bin\Debug\Topping.Core.Data.SQL.pdb
+D:\Ict7\Sample\TopMachineAzure\Topping.Core.Data.SQL\bin\Debug\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachineAzure\Topping.Core.Data.SQL\bin\Debug\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachineAzure\Topping.Core.Data.SQL\bin\Debug\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachineAzure\Topping.Core.Data.SQL\bin\Debug\NLog.dll
+D:\Ict7\Sample\TopMachineAzure\Topping.Core.Data.SQL\bin\Debug\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachineAzure\Topping.Core.Data.SQL\bin\Debug\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachineAzure\Topping.Core.Data.SQL\bin\Debug\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachineAzure\Topping.Core.Data.SQL\bin\Debug\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\Topping.Core.Data.SQL.dll.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\Topping.Core.Data.SQL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\Topping.Core.Data.SQL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core.Data.SQL\bin\Debug\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core.Data.SQL\obj\Debug\Topping.Core.Data.SQL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping.Core.Data.SQL\obj\Debug\Topping.Core.Data.SQL.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data.SQL\bin\Debug\Topping.Core.Data.SQL.dll.config
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data.SQL\bin\Debug\Topping.Core.Data.SQL.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data.SQL\bin\Debug\Topping.Core.Data.SQL.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data.SQL\bin\Debug\Topping.Core.Data.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data.SQL\bin\Debug\Topping.Core.Data.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data.SQL\obj\Debug\Topping.Core.Data.SQL.csprojResolveAssemblyReference.cache
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data.SQL\obj\Debug\Topping.Core.Data.SQL.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Data.SQL\obj\Debug\Topping.Core.Data.SQL.pdb

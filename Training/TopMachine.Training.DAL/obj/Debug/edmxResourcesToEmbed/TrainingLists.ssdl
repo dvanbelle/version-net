@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TrainingEmptyModel.Store" Alias="Self" Provider="System.Data.SQLite" ProviderManifestToken="ISO8601" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="TrainingEmptyModelStoreContainer">
+    <EntitySet Name="Config" EntityType="TrainingEmptyModel.Store.Config" store:Type="Tables" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+    <EntitySet Name="Sessions" EntityType="TrainingEmptyModel.Store.Sessions" store:Type="Tables" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+    <EntitySet Name="Words" EntityType="TrainingEmptyModel.Store.Words" store:Type="Tables" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+  </EntityContainer>
+  <EntityType Name="Config">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="integer" Nullable="false" />
+    <Property Name="XMLConfig" Type="nvarchar" Nullable="false" />
+    <Property Name="XMLPlay" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Sessions">
+    <Key>
+      <PropertyRef Name="DateTime" />
+    </Key>
+    <Property Name="DateTime" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="RoundsFound" Type="integer" Nullable="false" />
+    <Property Name="RoundsTotal" Type="integer" Nullable="false" />
+    <Property Name="WordsFound" Type="integer" Nullable="false" />
+    <Property Name="WordsTotal" Type="integer" Nullable="false" />
+    <Property Name="TotalTime" Type="integer" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Words">
+    <Key>
+      <PropertyRef Name="Rack" />
+    </Key>
+    <Property Name="Rack" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Lost" Type="int" Nullable="false" />
+    <Property Name="Succeeded" Type="int" Nullable="false" />
+    <Property Name="Total" Type="int" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="WordsXML" Type="nvarchar" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'main.GetWordStatistics' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      warning 6005: The data type '' is not supported; the column 'Counter' in table 'main.GetWordStatistics' was excluded.
+      warning 6005: The data type '' is not supported; the column 'Lost' in table 'main.GetWordStatistics' was excluded.
+      warning 6005: The data type '' is not supported; the column 'Succeeded' in table 'main.GetWordStatistics' was excluded.
+      warning 6005: The data type '' is not supported; the column 'Total' in table 'main.GetWordStatistics' was excluded.
+      -->
+</Schema>

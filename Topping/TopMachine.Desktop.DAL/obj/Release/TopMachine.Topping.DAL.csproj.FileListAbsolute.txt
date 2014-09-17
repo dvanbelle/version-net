@@ -1,0 +1,31 @@
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\bin\Release\TopMachine.Topping.DAL.dll.config
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\bin\Release\TopMachine.Topping.DAL.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\bin\Release\TopMachine.Topping.DAL.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\bin\Release\CMWA.Packager.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\bin\Release\Lucene.Net.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\bin\Release\TopMachine.Desktop.Global.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\bin\Release\NLog.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\bin\Release\TopMachine.Desktop.Global.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\bin\Release\CMWA.Packager.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\bin\Release\NLog.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\obj\Release\TopMachine.Topping.DAL.csprojResolveAssemblyReference.cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\obj\Release\TopMachine.Topping.DAL.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\obj\Release\TopMachine.Topping.DAL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\bin\Release\TopMachine.Topping.DAL.dll.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\bin\Release\TopMachine.Topping.DAL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\bin\Release\TopMachine.Topping.DAL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\bin\Release\Lucene.Net.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\obj\Release\TopMachine.Topping.DAL.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\obj\Release\TopMachine.Topping.DAL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.DAL\obj\Release\TopMachine.Topping.DAL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.DAL\bin\Release\TopMachine.Topping.DAL.dll.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.DAL\bin\Release\TopMachine.Topping.DAL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.DAL\bin\Release\TopMachine.Topping.DAL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.DAL\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.DAL\bin\Release\Lucene.Net.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.DAL\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.DAL\obj\Release\TopMachine.Topping.DAL.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.DAL\obj\Release\TopMachine.Topping.DAL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.DAL\obj\Release\TopMachine.Topping.DAL.pdb

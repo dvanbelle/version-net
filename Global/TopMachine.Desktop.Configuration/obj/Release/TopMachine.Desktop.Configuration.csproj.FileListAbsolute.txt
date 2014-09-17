@@ -1,0 +1,33 @@
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\bin\Release\TopMachine.config
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\bin\Release\TopMachine.Desktop.Configuration.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\bin\Release\TopMachine.Desktop.Configuration.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\bin\Release\TopMachine.Desktop.Global.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\bin\Release\NLog.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\bin\Release\TopMachine.Desktop.Global.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\bin\Release\NLog.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\obj\Release\TopMachine.Desktop.Configuration.csprojResolveAssemblyReference.cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\obj\Release\TopMachine.Desktop.Configuration.ConfigEditor.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\obj\Release\TopMachine.Desktop.Configuration.csproj.GenerateResource.Cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\obj\Release\TopMachine.Desktop.Configuration.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\obj\Release\TopMachine.Desktop.Configuration.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\bin\Release\TopMachine.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\bin\Release\TopMachine.Desktop.Configuration.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\bin\Release\TopMachine.Desktop.Configuration.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\bin\Release\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\bin\Release\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\bin\Release\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\bin\Release\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\obj\Release\TopMachine.Desktop.Configuration.ConfigEditor.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\obj\Release\TopMachine.Desktop.Configuration.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\obj\Release\TopMachine.Desktop.Configuration.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\obj\Release\TopMachine.Desktop.Configuration.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.Configuration7\obj\Release\TopMachine.Desktop.Configuration.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\bin\Release\TopMachine.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\bin\Release\TopMachine.Desktop.Configuration.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\bin\Release\TopMachine.Desktop.Configuration.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\bin\Release\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\bin\Release\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\obj\Release\TopMachine.Desktop.Configuration.ConfigEditor.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\obj\Release\TopMachine.Desktop.Configuration.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\obj\Release\TopMachine.Desktop.Configuration.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Configuration\obj\Release\TopMachine.Desktop.Configuration.pdb

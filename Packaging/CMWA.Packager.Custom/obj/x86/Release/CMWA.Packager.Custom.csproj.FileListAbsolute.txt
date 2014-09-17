@@ -1,0 +1,13 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\bin\x86\Release\CMWA.Packager.Custom.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\bin\x86\Release\CMWA.Packager.Custom.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\bin\x86\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\bin\x86\Release\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\bin\x86\Release\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\bin\x86\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\obj\x86\Release\CMWA.Packager.Custom.ShortCutEditor.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\obj\x86\Release\CMWA.Packager.Custom.ApplicationNavigationEditor.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\obj\x86\Release\CMWA.Packager.Custom.PackagerForm.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\obj\x86\Release\CMWA.Packager.Custom.Properties.Resources.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\obj\x86\Release\CMWA.Packager.Custom.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\obj\x86\Release\CMWA.Packager.Custom.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Packaging\CMWA.Packager.Custom\obj\x86\Release\CMWA.Packager.Custom.pdb

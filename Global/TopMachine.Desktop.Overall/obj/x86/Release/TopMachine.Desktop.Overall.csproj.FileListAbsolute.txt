@@ -1,0 +1,6 @@
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Overall\bin\x86\Release\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Overall\bin\x86\Release\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Overall\bin\x86\Release\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Overall\bin\x86\Release\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Overall\obj\x86\Release\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Global\TopMachine.Desktop.Overall\obj\x86\Release\TopMachine.Desktop.Global.pdb

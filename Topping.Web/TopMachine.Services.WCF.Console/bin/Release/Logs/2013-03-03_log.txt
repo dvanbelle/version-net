@@ -1,0 +1,25 @@
+------------------------------
+1|2013-03-03 17:31:09.1102|ERROR|wcf|Login
+Impossible de trouver une partie du chemin d'accès 'C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop\TopMachine.Services.WCF\bin\Debug\App_Data\Topping.dbo'.
+   à Db4objects.Db4o.IO.RandomAccessFileFactory.NewRandomAccessFile(String path, Boolean readOnly, Boolean lockFile)
+   à Db4objects.Db4o.IO.FileStorage.FileBin..ctor(BinConfiguration config)
+   à Db4objects.Db4o.IO.FileStorage.Open(BinConfiguration config)
+   à Db4objects.Db4o.IO.StorageDecorator.Open(BinConfiguration config)
+   à Db4objects.Db4o.IO.CachingStorage.Open(BinConfiguration config)
+   à Db4objects.Db4o.Internal.IoAdaptedObjectContainer.OpenImpl()
+   à Db4objects.Db4o.Internal.ObjectContainerBase._IRunnable_129.Run()
+   à Db4objects.Db4o.Foundation.DynamicVariable.With(Object value, IRunnable block)
+   à Db4objects.Db4o.Foundation.Environments.RunWith(IEnvironment environment, IRunnable runnable)
+   à Db4objects.Db4o.Internal.ObjectContainerBase.WithEnvironment(IRunnable runnable)
+   à Db4objects.Db4o.Internal.ObjectContainerBase.Open()
+   à Db4objects.Db4o.Internal.IoAdaptedObjectContainer..ctor(IConfiguration config, String fileName)
+   à Db4objects.Db4o.Internal.ObjectContainerFactory.OpenObjectContainer(IEmbeddedConfiguration config, String databaseFileName)
+   à Db4objects.Db4o.Db4oFactory.OpenFile(IConfiguration config, String databaseFileName)
+   à Db4objects.Db4o.CS.Internal.Config.StandardClientServerFactory.OpenServer(IServerConfiguration config, String databaseFileName, Int32 port)
+   à Db4objects.Db4o.CS.Db4oClientServer.OpenServer(IServerConfiguration config, String databaseFileName, Int32 port)
+   à Db4objects.Db4o.CS.Db4oClientServer.OpenServer(String databaseFileName, Int32 port)
+   à db4oProviders.SafeDB..ctor(String con) dans C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\Topping.Web.Security.Db4o\SafeDB.cs:ligne 95
+   à Topping.Web.Security.db4o.db4oMembershipProvider.UpdateUser(Predicate`1 userPredicate, Action`1 userUpdate) dans C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\Topping.Web.Security.Db4o\db4oMembershipProvider.cs:ligne 530
+   à Topping.Web.Security.db4o.db4oMembershipProvider.UpdateUser(String username, Action`1 userUpdate) dans C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\Topping.Web.Security.Db4o\db4oMembershipProvider.cs:ligne 525
+   à Topping.Web.Security.db4o.db4oMembershipProvider.ValidateUser(String username, String password) dans C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\Topping.Web.Security.Db4o\db4oMembershipProvider.cs:ligne 554
+   à TopMachine.Services.WCF.Topping.Login(String userName, String passWord, Int32 version) dans C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Services.WCF\Topping.svc.cs:ligne 157

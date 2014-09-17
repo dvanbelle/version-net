@@ -1,0 +1,81 @@
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\Topping.Core.Logic.dll.config
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\Topping.Core.Logic.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\Topping.Core.Logic.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\CMWA.Packager.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\NLog.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Desktop.Global.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Common.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Dto.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Engine.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Dawg.Safe.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Common.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Engine.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Desktop.Global.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\CMWA.Packager.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Dto.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\NLog.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Dawg.Safe.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\obj\Debug\Topping.Core.Logic.csprojResolveAssemblyReference.cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\obj\Debug\Topping.Core.Logic.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\obj\Debug\Topping.Core.Logic.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\Topping.Core.Data.SQL.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\Topping.Core.Data.SQL.pdb
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\bin\Debug\Topping.Core.Logic.dll.config
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\bin\Debug\Topping.Core.Logic.dll
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\bin\Debug\Topping.Core.Logic.pdb
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\bin\Debug\Topping.Core.Data.SQL.dll
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\bin\Debug\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\bin\Debug\Topping.Core.Data.SQL.pdb
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\bin\Debug\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\obj\Debug\Topping.Core.Logic.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\obj\Debug\Topping.Core.Logic.dll
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\obj\Debug\Topping.Core.Logic.pdb
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\bin\Debug\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Common.dll
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Engine.dll
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Dawg.Safe.dll
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\bin\Debug\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Common.pdb
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Engine.pdb
+D:\Ict7\Sample\TopMachineAzure\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Dawg.Safe.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\Topping.Core.Logic.dll.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\Topping.Core.Logic.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\Topping.Core.Logic.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Common.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Engine.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\Topping.Core.Data.SQL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Dawg.Safe.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\Topping.Core.Data.SQL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Common.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Engine.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\bin\Debug\TopMachine.Topping.Dawg.Safe.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\obj\Debug\Topping.Core.Logic.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\obj\Debug\Topping.Core.Logic.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Core.Logic\obj\Debug\Topping.Core.Logic.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic\bin\Debug\Topping.Core.Logic.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic\bin\Debug\Topping.Core.Logic.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic\bin\Debug\CMWA.Packager.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic\bin\Debug\TopMachine.Desktop.Global.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic\bin\Debug\TopMachine.Topping.Common.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic\bin\Debug\TopMachine.Topping.Dto.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic\bin\Debug\TopMachine.Topping.Engine.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic\bin\Debug\TopMachine.Topping.Dawg.Safe.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic\bin\Debug\TopMachine.Desktop.Global.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic\bin\Debug\CMWA.Packager.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic\bin\Debug\TopMachine.Topping.Common.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic\bin\Debug\TopMachine.Topping.Engine.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic\bin\Debug\TopMachine.Topping.Dto.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic\bin\Debug\TopMachine.Topping.Dawg.Safe.pdb
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic\obj\Debug\Topping.Core.Logic.csprojResolveAssemblyReference.cache
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic\obj\Debug\Topping.Core.Logic.dll
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Core\Topping.Core.Logic\obj\Debug\Topping.Core.Logic.pdb

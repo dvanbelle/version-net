@@ -1,0 +1,40 @@
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\obj\x86\Debug\TopMachine.Topping.Common.csprojResolveAssemblyReference.cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\obj\x86\Debug\TopMachine.Topping.Common.Properties.Resources.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\obj\x86\Debug\TopMachine.Topping.Common.csproj.GenerateResource.Cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\bin\Debug\TopMachine.Topping.Common.dll.config
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\bin\Debug\TopMachine.Topping.Common.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\bin\Debug\TopMachine.Topping.Common.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\bin\Debug\CMWA.Packager.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\bin\Debug\CMWA.Packager.Tools.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\bin\Debug\TopMachine.Desktop.Global.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\bin\Debug\TopMachine.Topping.Dawg.Safe.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\bin\Debug\TopMachine.Topping.Dto.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\bin\Debug\NLog.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\bin\Debug\TopMachine.Topping.Dawg.Safe.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\bin\Debug\TopMachine.Desktop.Global.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\bin\Debug\CMWA.Packager.Tools.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\bin\Debug\CMWA.Packager.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\bin\Debug\TopMachine.Topping.Dto.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\bin\Debug\NLog.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\obj\x86\Debug\TopMachine.Topping.Common.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.Common\obj\x86\Debug\TopMachine.Topping.Common.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\bin\Debug\TopMachine.Topping.Common.dll.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\bin\Debug\TopMachine.Topping.Common.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\bin\Debug\TopMachine.Topping.Common.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\bin\Debug\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\bin\Debug\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\bin\Debug\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\bin\Debug\TopMachine.Topping.Dawg.Safe.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\bin\Debug\TopMachine.Topping.Dto.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\bin\Debug\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\bin\Debug\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\bin\Debug\TopMachine.Topping.Dawg.Safe.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\bin\Debug\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\bin\Debug\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\bin\Debug\TopMachine.Topping.Dto.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\bin\Debug\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\obj\x86\Debug\TopMachine.Topping.Common.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\obj\x86\Debug\TopMachine.Topping.Common.Properties.Resources.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\obj\x86\Debug\TopMachine.Topping.Common.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\obj\x86\Debug\TopMachine.Topping.Common.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Topping\TopMachine.Desktop.Common\obj\x86\Debug\TopMachine.Topping.Common.pdb

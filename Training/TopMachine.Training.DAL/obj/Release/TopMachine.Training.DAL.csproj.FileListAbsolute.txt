@@ -1,0 +1,58 @@
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\TopMachine.Training.DAL.dll.config
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\TopMachine.Training.DAL.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\TopMachine.Training.DAL.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\CMWA.Packager.Custom.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\CMWA.Packager.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\System.Data.SQLite.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\TopMachine.Desktop.Global.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\TopMachine.Topping.Dawg.Safe.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\CMWA.Packager.Tools.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\NLog.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\CMWA.Packager.Custom.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\TopMachine.Topping.Dawg.Safe.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\TopMachine.Desktop.Global.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\CMWA.Packager.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\System.Data.SQLite.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\CMWA.Packager.Tools.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\NLog.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\obj\Release\TopMachine.Training.DAL.csprojResolveAssemblyReference.cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\obj\Release\TopMachine.Training.DAL.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Training.DAL\obj\Release\TopMachine.Training.DAL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\obj\Release\TopMachine.Training.DAL.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\TopMachine.Training.DAL.dll.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\TopMachine.Training.DAL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\TopMachine.Training.DAL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\CMWA.Packager.Custom.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\System.Data.SQLite.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\TopMachine.Topping.Dawg.Safe.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\CMWA.Packager.Custom.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\TopMachine.Topping.Dawg.Safe.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\System.Data.SQLite.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\bin\Release\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\obj\Release\TopMachine.Training.DAL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Training.DAL\obj\Release\TopMachine.Training.DAL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.DAL\bin\Release\TopMachine.Training.DAL.dll.config
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.DAL\bin\Release\TopMachine.Training.DAL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.DAL\bin\Release\TopMachine.Training.DAL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.DAL\bin\Release\CMWA.Packager.Custom.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.DAL\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.DAL\bin\Release\System.Data.SQLite.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.DAL\bin\Release\TopMachine.Desktop.Global.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.DAL\bin\Release\TopMachine.Topping.Dawg.Safe.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.DAL\bin\Release\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.DAL\bin\Release\CMWA.Packager.Custom.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.DAL\bin\Release\TopMachine.Desktop.Global.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.DAL\bin\Release\TopMachine.Topping.Dawg.Safe.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.DAL\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.DAL\bin\Release\System.Data.SQLite.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.DAL\bin\Release\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.DAL\obj\Release\TopMachine.Training.DAL.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.DAL\obj\Release\TopMachine.Training.DAL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Training\TopMachine.Training.DAL\obj\Release\TopMachine.Training.DAL.pdb

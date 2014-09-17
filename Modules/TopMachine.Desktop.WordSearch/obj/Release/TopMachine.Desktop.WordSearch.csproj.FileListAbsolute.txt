@@ -1,0 +1,64 @@
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Desktop.WordSearch.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Desktop.WordSearch.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\CMWA.Packager.Tools.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Desktop.Controls.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Desktop.Dico.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Topping.DAL.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Topping.Dawg.Safe.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\CMWA.Packager.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\Lucene.Net.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\NLog.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Desktop.Controls.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Topping.DAL.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Topping.Dawg.Safe.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Desktop.Dico.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\CMWA.Packager.Tools.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\CMWA.Packager.pdb
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\NLog.xml
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\obj\Release\TopMachine.Desktop.WordSearch.csprojResolveAssemblyReference.cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\obj\Release\TopMachine.Desktop.Search.WordSearch.resources
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\obj\Release\TopMachine.Desktop.WordSearch.csproj.GenerateResource.Cache
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\obj\Release\TopMachine.Desktop.WordSearch.dll
+C:\Data Perso\Programmation\Topmachine\codeplex\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\obj\Release\TopMachine.Desktop.WordSearch.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Desktop.WordSearch.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Desktop.WordSearch.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Desktop.Controls.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Desktop.Dico.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Topping.DAL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Topping.Dawg.Safe.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\Lucene.Net.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\NLog.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Desktop.Controls.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Topping.DAL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Topping.Dawg.Safe.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Desktop.Dico.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\bin\Release\NLog.xml
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\obj\Release\TopMachine.Desktop.WordSearch.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\obj\Release\TopMachine.Desktop.Search.WordSearch.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\obj\Release\TopMachine.Desktop.WordSearch.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\obj\Release\TopMachine.Desktop.WordSearch.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\TopMachine.Desktop.WordSearch\obj\Release\TopMachine.Desktop.WordSearch.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Desktop.WordSearch.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Desktop.WordSearch.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\bin\Release\CMWA.Packager.Tools.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Desktop.Controls.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Desktop.Dico.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Topping.DAL.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Topping.Dawg.Safe.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\bin\Release\CMWA.Packager.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\bin\Release\Lucene.Net.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Desktop.Controls.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\bin\Release\CMWA.Packager.Tools.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Topping.DAL.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Topping.Dawg.Safe.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\bin\Release\TopMachine.Desktop.Dico.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\bin\Release\CMWA.Packager.pdb
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\obj\Release\TopMachine.Desktop.WordSearch.csprojResolveAssemblyReference.cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\obj\Release\TopMachine.Desktop.Search.WordSearch.resources
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\obj\Release\TopMachine.Desktop.WordSearch.csproj.GenerateResource.Cache
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\obj\Release\TopMachine.Desktop.WordSearch.dll
+D:\Ict7\Sample\TopMachine.Desktop.2012\Modules\TopMachine.Desktop.WordSearch\obj\Release\TopMachine.Desktop.WordSearch.pdb

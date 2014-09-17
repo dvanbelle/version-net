@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ToppingModelStoreContainer" CdmEntityContainer="ToppingEntities">
+    <EntitySetMapping Name="GameConfigs">
+      <EntityTypeMapping TypeName="ToppingModel.GameConfig">
+        <MappingFragment StoreEntitySet="GameConfigs">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="XmlConfig" ColumnName="XmlConfig" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GameRankings">
+      <EntityTypeMapping TypeName="ToppingModel.GameRanking">
+        <MappingFragment StoreEntitySet="GameRankings">
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="Month" ColumnName="Month" />
+          <ScalarProperty Name="ConfigGameId" ColumnName="ConfigGameId" />
+          <ScalarProperty Name="Playerid" ColumnName="Playerid" />
+          <ScalarProperty Name="Percentage" ColumnName="Percentage" />
+          <ScalarProperty Name="NbParties" ColumnName="NbParties" />
+          <ScalarProperty Name="LostTops" ColumnName="LostTops" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+          <ScalarProperty Name="TotalTops" ColumnName="TotalTops" />
+          <ScalarProperty Name="Position" ColumnName="Position" />
+          <ScalarProperty Name="Serie" ColumnName="Serie" />
+          <ScalarProperty Name="PlayerTop" ColumnName="PlayerTop" />
+          <ScalarProperty Name="GameTop" ColumnName="GameTop" />
+          <ScalarProperty Name="Selection" ColumnName="Selection" />
+          <ScalarProperty Name="BestTime" ColumnName="BestTime" />
+          <ScalarProperty Name="BestScore" ColumnName="BestScore" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Games">
+      <EntityTypeMapping TypeName="ToppingModel.Game">
+        <MappingFragment StoreEntitySet="Games">
+          <ScalarProperty Name="GameId" ColumnName="GameId" />
+          <ScalarProperty Name="GameConfigId" ColumnName="GameConfigId" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="GameXml" ColumnName="GameXml" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="users">
+      <EntityTypeMapping TypeName="ToppingModel.user">
+        <MappingFragment StoreEntitySet="users">
+          <ScalarProperty Name="FailedPasswordAnswerAttemptWindowStart" ColumnName="FailedPasswordAnswerAttemptWindowStart" />
+          <ScalarProperty Name="FailedPasswordAnswerAttemptCount" ColumnName="FailedPasswordAnswerAttemptCount" />
+          <ScalarProperty Name="FailedPasswordAttemptWindowStart" ColumnName="FailedPasswordAttemptWindowStart" />
+          <ScalarProperty Name="FailedPasswordAttemptCount" ColumnName="FailedPasswordAttemptCount" />
+          <ScalarProperty Name="LastLockedOutDate" ColumnName="LastLockedOutDate" />
+          <ScalarProperty Name="IsLockedOut" ColumnName="IsLockedOut" />
+          <ScalarProperty Name="IsOnLine" ColumnName="IsOnLine" />
+          <ScalarProperty Name="CreationDate" ColumnName="CreationDate" />
+          <ScalarProperty Name="LastPasswordChangedDate" ColumnName="LastPasswordChangedDate" />
+          <ScalarProperty Name="LastLoginDate" ColumnName="LastLoginDate" />
+          <ScalarProperty Name="LastActivityDate" ColumnName="LastActivityDate" />
+          <ScalarProperty Name="IsApproved" ColumnName="IsApproved" />
+          <ScalarProperty Name="PasswordAnswer" ColumnName="PasswordAnswer" />
+          <ScalarProperty Name="PasswordQuestion" ColumnName="PasswordQuestion" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="ApplicationName" ColumnName="ApplicationName" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="PKID" ColumnName="PKID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ViewUserIdAndNames">
+      <EntityTypeMapping TypeName="ToppingModel.ViewUserIdAndName">
+        <MappingFragment StoreEntitySet="ViewUserIdAndName">
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="PKID" ColumnName="PKID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GamesDetails">
+      <EntityTypeMapping TypeName="ToppingModel.GamesDetail">
+        <MappingFragment StoreEntitySet="GamesDetail">
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Rating" ColumnName="Rating" />
+          <ScalarProperty Name="Selection" ColumnName="Selection" />
+          <ScalarProperty Name="Negative" ColumnName="Negative" />
+          <ScalarProperty Name="Top" ColumnName="Top" />
+          <ScalarProperty Name="TopLost" ColumnName="TopLost" />
+          <ScalarProperty Name="Percentage" ColumnName="Percentage" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+          <ScalarProperty Name="Warnings" ColumnName="Warnings" />
+          <ScalarProperty Name="Solos" ColumnName="Solos" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="DetailXml" ColumnName="DetailXml" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="GameId" ColumnName="GameId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ViewGetRankings">
+      <EntityTypeMapping TypeName="ToppingModel.ViewGetRanking">
+        <MappingFragment StoreEntitySet="ViewGetRankings">
+          <ScalarProperty Name="BestScore" ColumnName="BestScore" />
+          <ScalarProperty Name="BestTime" ColumnName="BestTime" />
+          <ScalarProperty Name="Selection" ColumnName="Selection" />
+          <ScalarProperty Name="GameTop" ColumnName="GameTop" />
+          <ScalarProperty Name="PlayerTop" ColumnName="PlayerTop" />
+          <ScalarProperty Name="Serie" ColumnName="Serie" />
+          <ScalarProperty Name="Position" ColumnName="Position" />
+          <ScalarProperty Name="TotalTops" ColumnName="TotalTops" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+          <ScalarProperty Name="LostTops" ColumnName="LostTops" />
+          <ScalarProperty Name="NbParties" ColumnName="NbParties" />
+          <ScalarProperty Name="Percentage" ColumnName="Percentage" />
+          <ScalarProperty Name="Playerid" ColumnName="Playerid" />
+          <ScalarProperty Name="ConfigGameId" ColumnName="ConfigGameId" />
+          <ScalarProperty Name="Month" ColumnName="Month" />
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ViewGetGameDetails">
+      <EntityTypeMapping TypeName="ToppingModel.ViewGetGameDetail">
+        <MappingFragment StoreEntitySet="ViewGetGameDetails">
+          <ScalarProperty Name="GameConfigId" ColumnName="GameConfigId" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Rating" ColumnName="Rating" />
+          <ScalarProperty Name="Selection" ColumnName="Selection" />
+          <ScalarProperty Name="Negative" ColumnName="Negative" />
+          <ScalarProperty Name="Top" ColumnName="Top" />
+          <ScalarProperty Name="TopLost" ColumnName="TopLost" />
+          <ScalarProperty Name="Percentage" ColumnName="Percentage" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+          <ScalarProperty Name="Warnings" ColumnName="Warnings" />
+          <ScalarProperty Name="Solos" ColumnName="Solos" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="GameId" ColumnName="GameId" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

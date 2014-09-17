@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<entries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <entry name="" kind="folder" url="https://tfs04.codeplex.com:443/" path="$/db4oProviders/" id="3521" changeset="307" shadow="c302bd6ac08240cf988df7230c69a34e" />
+  <entry name="db4oProviders" kind="folder" id="3661" changeset="337" shadow="9ffbde5925964b58b42f02751b306160" />
+  <entry name="db4oProviders.sln" kind="file" id="3662" changeset="25449" />
+  <entry name="db4oProvidersTest" kind="folder" id="3663" changeset="337" shadow="34ed302c82bc46849a2629433d0257c9" />
+</entries>

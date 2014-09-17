@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DicoFRModel.Store" Alias="Self" Provider="System.Data.SQLite" ProviderManifestToken="ISO8601" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="DicoFRModelStoreContainer">
+    <EntitySet Name="Dico" EntityType="DicoFRModel.Store.Dico" store:Type="Tables" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+    <EntitySet Name="Mots" EntityType="DicoFRModel.Store.Mots" store:Type="Tables" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+    <AssociationSet Name="FK_Mots_0" Association="DicoFRModel.Store.FK_Mots_0">
+      <End Role="Dico" EntitySet="Dico" />
+      <End Role="Mots" EntitySet="Mots" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Dico">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="integer" Nullable="false" />
+    <Property Name="Key" Type="nvarchar" MaxLength="50" />
+    <Property Name="Mot" Type="nvarchar" MaxLength="50" />
+    <Property Name="Genre" Type="nvarchar" MaxLength="50" />
+    <Property Name="Definition" Type="nvarchar" />
+    <Property Name="Autres" Type="nvarchar" />
+    <Property Name="IDLien" Type="integer" />
+    <Property Name="Lien" Type="nvarchar" MaxLength="50" />
+    <Property Name="isInvariable" Type="bit" Nullable="false" />
+    <Property Name="Conjugaison" Type="integer" />
+    <Property Name="Conjugaison2" Type="integer" />
+    <Property Name="isListe" Type="bit" Nullable="false" />
+    <Property Name="isAccord" Type="bit" Nullable="false" />
+    <Property Name="Regle" Type="integer" />
+    <Property Name="isExported" Type="bit" Nullable="false" />
+    <Property Name="isODS5" Type="bit" Nullable="false" />
+    <Property Name="DefinitionCrypted" Type="blob" />
+    <Property Name="Hidden" Type="bit" />
+  </EntityType>
+  <EntityType Name="Mots">
+    <Key>
+      <PropertyRef Name="MotID" />
+    </Key>
+    <Property Name="MotID" Type="integer" Nullable="false" />
+    <Property Name="DicoId" Type="integer" />
+    <Property Name="Mot" Type="nvarchar" MaxLength="50" />
+    <Property Name="Type" Type="integer" />
+  </EntityType>
+  <Association Name="FK_Mots_0">
+    <End Role="Dico" Type="DicoFRModel.Store.Dico" Multiplicity="1" />
+    <End Role="Mots" Type="DicoFRModel.Store.Mots" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Dico">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Mots">
+        <PropertyRef Name="MotID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

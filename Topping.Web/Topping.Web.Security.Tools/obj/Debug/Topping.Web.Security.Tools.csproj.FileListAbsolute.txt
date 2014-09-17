@@ -1,0 +1,4 @@
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Web\Topping.Web.Security.Tools\obj\Debug\Topping.Web.Security.Tools.csprojResolveAssemblyReference.cache
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Web\Topping.Web.Security.Tools\obj\Debug\Topping.Web.Security.Tools.ConvertDB.resources
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Web\Topping.Web.Security.Tools\obj\Debug\Topping.Web.Security.Tools.Properties.Resources.resources
+E:\Projects\Topmachine\TopMachine.Desktop.2012\Topping.Web\Topping.Web.Security.Tools\obj\Debug\Topping.Web.Security.Tools.csproj.GenerateResource.Cache
